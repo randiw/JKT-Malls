@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Offices & Services",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "name": "Books, Stationeries, Arts & Crafts",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "name": "Children & Maternity",
+    "order": 3
+  },
+  {
+    "id": 4,
+    "name": "Fashion & Accessories",
+    "order": 4
+  },
+  {
+    "id": 5,
+    "name": "Food & Beverage",
+    "order": 5
+  },
+  {
+    "id": 6,
+    "name": "Electronics & Communications",
+    "order": 6
+  },
+  {
+    "id": 7,
+    "name": "Groceries & Convenience Store",
+    "order": 7
+  },
+  {
+    "id": 8,
+    "name": "Health, Beauty & Wellness",
+    "order": 8
+  },
+  {
+    "id": 9,
+    "name": "Sports",
+    "order": 9
+  },
+  {
+    "id": 10,
+    "name": "Gift, Hobbies & Toys",
+    "order": 10
+  },
+  {
+    "id": 11,
+    "name": "Opticals",
+    "order": 11
+  },
+  {
+    "id": 12,
+    "name": "Departmental Stores",
+    "order": 12
+  },
+  {
+    "id": 13,
+    "name": "Leisure, Games & Entertainment",
+    "order": 13
+  },
+  {
+    "id": 14,
+    "name": "Furnishing & Housewares",
+    "order": 14
+  },
+  {
+    "id": 15,
+    "name": "Education & Enrichments",
+    "order": 15
+  }
+]

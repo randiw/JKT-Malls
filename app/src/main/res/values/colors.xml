@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- flat blue -->
+    <color name="blue_picton">#22a7f0</color>
+    <color name="blue_san_marino">#446cb3</color>
+    <color name="blue_jacksons_purple">#1f3a93</color>
+    <color name="blue_dodger">#19b5fe</color>
+    <color name="blue_ebony_clay">#22313f</color>
+    <color name="blue_alice">#e4f1fe</color>
+    <color name="blue_steel_blue">#4b77be</color>
+
+    <!-- flat gray-->
+    <color name="gray_lynch">#6c7a89</color>
+    <color name="gray_edward">#abb7b7</color>
+    <color name="gray_cascade">#95a5a6</color>
+    
+    <!-- flat green -->
+    <color name="green_mountain_meadow">#1bbc9b</color>
+    <color name="green_dark">#0d9478</color>
+    <color name="green_darker">#045645</color>
+    
+    <!-- flat purple -->
+    <color name="purple_snuff">#dcc6e0</color>
+</resources>

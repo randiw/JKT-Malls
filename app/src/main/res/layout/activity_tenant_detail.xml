@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:print="http://schemas.android.com/apk/res-auto"
+    style="@style/BaseActivity"
+    tools:context=".activities.TenantDetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/name"
+                    style="@style/detail_title"
+                    android:textColor="@color/blue_dodger"
+                    android:text="Tenant Name"
+                    android:gravity="center|left" />
+
+                <TextView
+                    android:id="@+id/category"
+                    style="@style/detail_item"
+                    android:text="Category" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/floor"
+                android:layout_height="match_parent"
+                android:gravity="center|top"
+                style="@style/detail_item"
+                android:textColor="@color/gray_cascade"
+                android:textSize="40sp"
+                android:textStyle="bold"
+                android:text="#UG"
+                android:layout_weight="0" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/bg_desc_detail">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:background="@drawable/bg_desc_detail_item">
+
+                <com.github.johnkil.print.PrintView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    print:iconColor="@android:color/black"
+                    android:layout_gravity="center_vertical"
+                    print:iconSize="22dp"
+                    print:iconText="@string/ic_material_domain"
+                    android:layout_marginRight="5dp" />
+
+                <TextView
+                    android:id="@+id/unit"
+                    style="@style/detail_item"
+                    android:text="Unit" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:orientation="horizontal">
+
+                <com.github.johnkil.print.PrintView
+                    android:id="@+id/phone_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    print:iconColor="@android:color/black"
+                    android:layout_gravity="center_vertical"
+                    print:iconSize="22dp"
+                    print:iconText="@string/ic_material_call"
+                    android:layout_marginRight="5dp" />
+
+                <TextView
+                    android:id="@+id/phone"
+                    style="@style/detail_item"
+                    android:text="Phone" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

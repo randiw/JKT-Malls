@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:print="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout style="@style/menu_item">
+
+        <com.github.johnkil.print.PrintView
+            style="@style/menu_icon"
+            print:iconText="@string/ic_material_location_city" />
+
+        <TextView
+            android:id="@+id/malls"
+            style="@style/menu_text"
+            android:text="@string/drawer_malls" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/menu_item">
+
+        <com.github.johnkil.print.PrintView
+            style="@style/menu_icon"
+            print:iconText="@string/ic_material_shopping_basket" />
+
+        <TextView
+            android:id="@+id/shops"
+            style="@style/menu_text"
+            android:text="@string/drawer_shops" />
+
+    </LinearLayout>
+
+</LinearLayout>

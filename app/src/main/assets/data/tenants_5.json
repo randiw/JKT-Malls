@@ -1,0 +1,4652 @@
+[
+  {
+    "id": 2745,
+    "name": "ATM CENTRE",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "#UG-15,16",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2746,
+    "name": "INDOSURYA SECURITAS",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "1 unit 49",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2747,
+    "name": "AVIA TOUR",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "2 unit 23",
+    "phone": "+6221 6667 6684",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2748,
+    "name": "BAYU BUANA",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "2 unit 32",
+    "phone": "+6221 6667 6266",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2749,
+    "name": "K.I.A TOURS & TRAVEL",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "2 unit 35",
+    "phone": "+6221 6667 6760",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2750,
+    "name": "MANAGEMENT OFFICE",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "5 unit 03",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "5"
+  },
+  {
+    "id": 2751,
+    "name": "PLUIT CITY",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "G-29,30,31",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2752,
+    "name": "KIA TOURS & TRAVEL",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "Lantai 2 Unit 35",
+    "phone": "+6221 6667 6760",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2753,
+    "name": "EMPRESS MONEY CHANGER",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "LG-02",
+    "phone": "+6221 6667 6337",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2754,
+    "name": "GARUDA CITY CHECK IN",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "UG-36",
+    "phone": "+6221 6667 6642",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2755,
+    "name": "GRAMEDIA",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "2 unit 11",
+    "phone": "+6221 6667 6289",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2756,
+    "name": "PAPER CLIP",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "2-19,20",
+    "phone": "+6221 6667 6557",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2757,
+    "name": "BABYBELLE",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "1-29 aby",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2758,
+    "name": "KIDDYCUTS",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2 unit 06",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2759,
+    "name": "BABY SNOOPY",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2 unit 25",
+    "phone": "+6221 6667 6553",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2760,
+    "name": "MOTHER CARE",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2-27,26,32A",
+    "phone": "+6221 6667 6582",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2761,
+    "name": "KIDZ STATION",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "UG-17,18",
+    "phone": "+6221 6667 6603",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2762,
+    "name": "THE EXECUTIVE",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-32,33",
+    "phone": "+6221 6667 6551",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2763,
+    "name": "SAMUEL & KEVIN",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#G-32,33",
+    "phone": "+6221 6667 6707",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2764,
+    "name": "126",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#UG-27",
+    "phone": "+6221 6667 6308",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2765,
+    "name": "HUSH PUPPIES",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#UG-38,39",
+    "phone": "+6221 6667 6548",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2766,
+    "name": "POLO",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 10",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2767,
+    "name": "BATIK KERIS",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 15",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2768,
+    "name": "LASONA",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 18",
+    "phone": "+6221 6667 6261",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2769,
+    "name": "POLO RALPH LAUREN",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 25",
+    "phone": "+6221 6667 6539",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2770,
+    "name": "TEXWORLD TEXTILE",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 30",
+    "phone": "+6221 6667 6262",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2771,
+    "name": "MINEOLA",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 36",
+    "phone": "+6221 6667 6427",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2772,
+    "name": "AVENUE",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 37",
+    "phone": "+6221 6667 6578",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2773,
+    "name": "EZPRESSO",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 38",
+    "phone": "+6221 6667 6501",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2774,
+    "name": "BODY & SOUL",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 39",
+    "phone": "+6221 6667 6370",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2775,
+    "name": "FLD (FLADEO)",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 45",
+    "phone": "+6221 6667 6559",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2776,
+    "name": "TRAVEL XPERIENCE",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 51",
+    "phone": "+6221 6667 6508",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2777,
+    "name": "CONDOTTI",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1 unit 52",
+    "phone": "+6221 6667 6456",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2778,
+    "name": "ARNETT",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2 unit 09",
+    "phone": "+6221 6667 6687",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2779,
+    "name": "COOL KIDS",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2 unit 10",
+    "phone": "+6221 6667 6286",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2780,
+    "name": "OSELLA KIDS",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2 unit 28",
+    "phone": "+6221 6667 6430",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2781,
+    "name": "PRETTY",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "4 unit 41",
+    "phone": "+6221 6667 6515",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2782,
+    "name": "TAMMIA",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "4 unit 42",
+    "phone": "+6221 6667 6611",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2783,
+    "name": "WARNA",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "4 unit 43",
+    "phone": "+6221 6667 6512",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2784,
+    "name": "MISSY 7",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "4 unit 45",
+    "phone": "+6221 6667 6250",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2785,
+    "name": "NAUGHTY",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "4 unit 50",
+    "phone": "+6221 6667 6306",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2786,
+    "name": "OPTIK MELAWAI",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G-05,05A",
+    "phone": "+6221 6667 6281",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2787,
+    "name": "BALENO",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G-21,22",
+    "phone": "+6221 6667 6707",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2788,
+    "name": "GIORDANO",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G-26,27",
+    "phone": "+6221 6667 6653",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2789,
+    "name": "CACHE CACHE",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G-28",
+    "phone": "+6221 6667 6830",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2790,
+    "name": "ANDRE VALENTINO",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Ground Floor",
+    "phone": "+6221 6667 6555",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2791,
+    "name": "HARRY's PALMER ",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lantai 1 No. 28",
+    "phone": "+6221 6667 6850",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2792,
+    "name": "GAUDI",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lantai 1 No. 56",
+    "phone": "+6221 6667 6282",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2793,
+    "name": "WATCH WORLD",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lantai 1 No. Lc 01",
+    "phone": "+6221 6667 2999",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2794,
+    "name": "COOL TEEN",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lantai 1 unit 27",
+    "phone": "+6221 6667 6283",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2795,
+    "name": "FISIK",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lantai 1 Unit 40",
+    "phone": "+6221 6667 6823",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2796,
+    "name": "CAMMOMILE",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lantai 1 Unit 42",
+    "phone": "+6221 6667 6516",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2797,
+    "name": "SHOELINE",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lantai 1 Unit 8",
+    "phone": "+6221 6667 6612",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2798,
+    "name": "HALELUYA",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lantai 2 No. 1",
+    "phone": "+6221 6667 6288",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2799,
+    "name": "DUDAIM",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lantai 2 No.2",
+    "phone": "+6221 6667 6288",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2800,
+    "name": "SCOOP",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lantai 4 Unit 12",
+    "phone": "+6221 6667 6810",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2801,
+    "name": "BELLAGIO",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lantai UG Unit 41",
+    "phone": "+6221 6667 6372",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2802,
+    "name": "GIOVANNI",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG Unit 07",
+    "phone": "+6221 6667 6519",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2803,
+    "name": "GOSH",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG Unit 26",
+    "phone": "+6221 6667 6371",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2804,
+    "name": "ARENA",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG-06",
+    "phone": "+6221 6667 6469",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2805,
+    "name": "GIORGIO AGNELLI",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG-08",
+    "phone": "+6221 2907 1902",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2806,
+    "name": "SWATCH",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG-22",
+    "phone": "+6221 6667 6618",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2807,
+    "name": "WATCH ZONE",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG-28",
+    "phone": "+6221 6667 6389",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2808,
+    "name": "COLOR BOX",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG-30",
+    "phone": "+6221 6667 6552",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2809,
+    "name": "OPTIK TUNGGAL",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG-31",
+    "phone": "+6221 6667 6273",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2810,
+    "name": "OPTIK SEIS",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG-32",
+    "phone": "+6221 6667 6307",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2811,
+    "name": "CROCS | THE LITTLE THINGS SHE NEEDS",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG-33",
+    "phone": "+6221 6667 6816",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2812,
+    "name": "CHARLES & KEITH",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG-40,40A",
+    "phone": "+6221 6667 6329",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2813,
+    "name": "HAMMER",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Unnper GF Unit 26",
+    "phone": "+6221 6667 6539",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2814,
+    "name": "SEOUL KOREAN RESTAURANT",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#4-02,03",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2815,
+    "name": "YOSHINOYA",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#4-11,12",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2816,
+    "name": "PIZZA HUT",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#4-22,23",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2817,
+    "name": "SUSHI TENGOKU",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#4-30,31",
+    "phone": "+6221 6667 6297",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2818,
+    "name": "SOLARIA",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#4-36,37",
+    "phone": "+6221 6667 6339",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2819,
+    "name": "BANGKOK JAM",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#4-40,40A",
+    "phone": "+6221 6667 6287",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2820,
+    "name": "QUICKLY",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#4-FC-01,02",
+    "phone": "+6221 6667 6587",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2821,
+    "name": "STARBUCKS",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#G-40,41",
+    "phone": "+6221 6667 6595",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2822,
+    "name": "TAWAN",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2 unit 21",
+    "phone": "+6221 6667 6726",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2823,
+    "name": "SOP IKAN BATAM",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2 unit 41",
+    "phone": "+6221 6667 6568",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2824,
+    "name": "BAKMI GAJAH MADA",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2 unit 47",
+    "phone": "+6221 6667 6390",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2825,
+    "name": "SATE KHAS SENAYAN",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2-38,39,40A",
+    "phone": "+6221 6667 6367",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2826,
+    "name": "PANCIOUS",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2-39,31",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2827,
+    "name": "XO SUKI",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2-46,45",
+    "phone": "+6221 6667 6616",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2828,
+    "name": "SUSHI TEI",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2-49,48",
+    "phone": "+6221 6667 6388",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2829,
+    "name": "IMPERIAL CHEF",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "3-56,57",
+    "phone": "+6221 6667 6693",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2830,
+    "name": "QQ SNOW MIX",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 05",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2831,
+    "name": "LAU'S KOPI TIAM",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 07",
+    "phone": "+6221 6667 6621",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2832,
+    "name": "KFC",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 09",
+    "phone": "+6221 6667 6715",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2833,
+    "name": "KOI TEPPANYAKI",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 10",
+    "phone": "+6221 6667 6523",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2834,
+    "name": "A&W RESTAURANT",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 15",
+    "phone": "+6221 6667 6327",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2835,
+    "name": "YA KUN KAYA TOAST",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 17",
+    "phone": "+6221 6667 6631",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2836,
+    "name": "SEOUL GARDEN EXPRESS",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 19",
+    "phone": "+6221 6667 6632",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2837,
+    "name": "YOGEN FRUZ",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 21",
+    "phone": "+6221 6667 6538",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2838,
+    "name": "LITTLE TAIWAN",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 25",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2839,
+    "name": "AH MEI CAFE",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 35",
+    "phone": "+6221 6667 6271",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2840,
+    "name": "JUN NJAN",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 38",
+    "phone": "+6221 6667 6285",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2841,
+    "name": "CHEF'S TABLE BY DIN TAI FUNG",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 39",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2842,
+    "name": "RAFFEL'S",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 47",
+    "phone": "+6221 6667 6560",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2843,
+    "name": "SAINT CINNAMON",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 48",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2844,
+    "name": "SOUR SALLY",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 49",
+    "phone": "+6221 6667 6579",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2845,
+    "name": "BUNGA",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4 unit 51",
+    "phone": "+62812 4204 5800",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2846,
+    "name": "MAYSTAR CORNER",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-25A",
+    "phone": "+6221 6667 6840",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2847,
+    "name": "MAY STAR",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-29,28,27,26",
+    "phone": "+6221 6667 6279",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2848,
+    "name": "KAFE BETAWI",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-32,33",
+    "phone": "+6221 6667 6569",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2849,
+    "name": "SHOKUPAN",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC-IC-05B",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2850,
+    "name": "SINGAPORE HAINANESE CHICKEN RICE",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC01",
+    "phone": "+6221 6667 6315",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2851,
+    "name": "KWETIAW SAPI PONTIANAK 88",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC02",
+    "phone": "+6221 9117 3794",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2852,
+    "name": "PHO 24",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC03",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2853,
+    "name": "SUI KIAU CHAN KEE",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC05",
+    "phone": "+6281 6114 3635",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2854,
+    "name": "DONER KEBAB",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC06",
+    "phone": "+6221 6667 6672",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2855,
+    "name": "YONG TAU FU SINGAPORE",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC07",
+    "phone": "+6221 6667 6311",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2856,
+    "name": "MI TARIK LAIKER",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC08",
+    "phone": "+6221 6667 6292",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2857,
+    "name": "SHIHLIN",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC10",
+    "phone": "+6221 9827 7392",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2858,
+    "name": "TAYANG SUKI EXPRESS",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC11",
+    "phone": "+6221 6667 6293",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2859,
+    "name": "PUTRI KENANGA",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC12",
+    "phone": "+6221 9242 1924",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2860,
+    "name": "JAVA KITCHEN",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC15",
+    "phone": "+6221 6667 6522",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2861,
+    "name": "HOTPLATE EXPRESS",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC16",
+    "phone": "+6221 3330 2755",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2862,
+    "name": "IMPERIAL DUCK",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC17",
+    "phone": "+6221 6667 6629",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2863,
+    "name": "SEKBA BABEH",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC18",
+    "phone": "+6221 6667 6305",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2864,
+    "name": "PEMPEK MERDEKA",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC19",
+    "phone": "+6221 6870 1745",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2865,
+    "name": "PEPPER LUNCH",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC20",
+    "phone": "+6221 6667 6590",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2866,
+    "name": "DAPUR EXPRESS",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FC22",
+    "phone": "+6221 3708 1140",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2867,
+    "name": "DAIRY QUEEN",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FCIC03",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2868,
+    "name": "AI PAO",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4-FCIC05",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2869,
+    "name": "KIYADON",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G-01",
+    "phone": "+6221 6667 6765",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2870,
+    "name": "HAAGEN DAZS",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G-06",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2871,
+    "name": "OLD TOWN WHITE COFFEE",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G-07",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2872,
+    "name": "BREAD TALK",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G-08",
+    "phone": "+6221 6667 6379",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2873,
+    "name": "J.CO",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G-09,10",
+    "phone": "+6221 6667 6377",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2874,
+    "name": "DUNKIN DONUTS",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G-11",
+    "phone": "+6221 6667 6520",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2875,
+    "name": "BREAD LIFE",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G-16",
+    "phone": "+6221 6667 6681",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2876,
+    "name": "WHITE HUNTER",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G-35",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2877,
+    "name": "HAN GANG",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G-36",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2878,
+    "name": "CUPPA COFFE",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Ground Floor",
+    "phone": "+6221 6667 6599",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2879,
+    "name": "KOI CAFE",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai 3 Unit 03 Blok EC-02",
+    "phone": "+6221 6667 6288",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2880,
+    "name": "D'DOUBLE DIPS",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai 4",
+    "phone": "+6221 6667 6599",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2881,
+    "name": "TOUS LES JOURS",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai 4",
+    "phone": "+6221 6667 6619",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2882,
+    "name": "FIESTA STEAK",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai 4 Unit -16 A",
+    "phone": "+6221 6667 2999",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2883,
+    "name": "SECRET RECIPE",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai 4 Unit 21",
+    "phone": "+6221 6667 6538",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2884,
+    "name": "SECRET GARDEN KITCHEN",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai 4 unit 9",
+    "phone": "+6221 6667 6633",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2885,
+    "name": "RED MARGO ",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai Dasar Blok S-6",
+    "phone": "+6221 6667 6710",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2886,
+    "name": "DOMINOS PIZZA",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai LGM Unit 03",
+    "phone": "+6221 6667 6622",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2887,
+    "name": "OLD CHANG KEE",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG Floor Unit 09",
+    "phone": "+6221 6667 6402",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2888,
+    "name": "BIKA AMBORN RICA RICO",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG Unit 29 B",
+    "phone": "+6221 6667 6288",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2889,
+    "name": "KURTOS ROLL",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG-06",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2890,
+    "name": "SHARE TEA",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG-07",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2891,
+    "name": "ANEKA CITRA SNACK",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG-08",
+    "phone": "+6221 6667 6265",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2892,
+    "name": "BASKIN ROBBIN",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG-22",
+    "phone": "+6221 6667 6701",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2893,
+    "name": "TEH 63",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG-27",
+    "phone": "+6221 6667 6669",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2894,
+    "name": "MINIMELTS",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG-29",
+    "phone": "+62857 2347 6319",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2895,
+    "name": "RICA RICO",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG-29B",
+    "phone": "+62812 2669 6406",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2896,
+    "name": "ROTIBOY",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LGM-02",
+    "phone": "+6221 6667 6818",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2897,
+    "name": "DIAN XIAO ER",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG Unit 1 & 2",
+    "phone": "+6221 6667 6635",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2898,
+    "name": "DE EXCELSO",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG-43,45,46",
+    "phone": "+6221 6667 6679",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2899,
+    "name": "NOKIA",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "1 unit 09",
+    "phone": "+6221 6667 6391",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2900,
+    "name": "WELLCOMM",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "2 unit 16",
+    "phone": "+6221 6667 6353",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2901,
+    "name": "ERAFONE",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "2 unit 33",
+    "phone": "+6221 6667 6393",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2902,
+    "name": "TELESINDO SHOP",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "2 unit 36",
+    "phone": "+6221 6667 6614",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2903,
+    "name": "OKE SHOP",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "2 unit 37",
+    "phone": "+6221 6667 6381",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2904,
+    "name": "INFINITE",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "2-12,15",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2905,
+    "name": "PAZIA",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "2-17,18",
+    "phone": "+6221 6667 6762",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2906,
+    "name": "TOKO PDA",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "2-35A",
+    "phone": "+6221 6667 6678",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2907,
+    "name": "ELECTRONIC SOLUTION",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3 unit 21",
+    "phone": "+6221 6667 6500",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2908,
+    "name": "GLOBAL TELESHOP",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "LG-16",
+    "phone": "+6221 6667 6490",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2909,
+    "name": "SAMSUNG",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "Lower 1st Floor Unit 6",
+    "phone": "+6221 6667 6630",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2910,
+    "name": "CARREFOUR",
+    "category": "Groceries & Convenience Store",
+    "category_id": 7,
+    "unit": "LG-01",
+    "phone": "+6221 6667 6256",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2911,
+    "name": "HABB HAIR GALLERY",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "1 unit 01",
+    "phone": "+6221 6667 6375",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2912,
+    "name": "SVENSON",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "1 unit 02",
+    "phone": "+6221 6667 6429",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2913,
+    "name": "MARIE FRANCE BODY LINE",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "1 unit 03",
+    "phone": "+6221 6667 6408",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2914,
+    "name": "BELLA SKIN CARE",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "1 unit 05",
+    "phone": "+6221 6667 6438",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2915,
+    "name": "THE NAIL SHOP",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "1 unit 06",
+    "phone": "+6221 6667 6369",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2916,
+    "name": "ETUDE HOUSE",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "1 unit 07",
+    "phone": "+6221 6667 6535",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2917,
+    "name": "PAXI | NAILPIA",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "1 unit 17",
+    "phone": "+6221 6667 6546",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2918,
+    "name": "PRIMA FIT",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "1 unit 22",
+    "phone": "+6221 6667 6804",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2919,
+    "name": "NATASHA SKIN CARE",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "2 unit 03",
+    "phone": "+6221 6667 6609",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2920,
+    "name": "FREGONA",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "3-18,19,20",
+    "phone": "+6221 6667 6365",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2921,
+    "name": "CHANTIQUE",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "3-38,39",
+    "phone": "+6221 6667 6510",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2922,
+    "name": "LOCCITANE",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "G-12",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2923,
+    "name": "THE FACE SHOP",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "G-17",
+    "phone": "+6221 6667 6807",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2924,
+    "name": "C&F PERFUMERY",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "G-18",
+    "phone": "+6221 6667 6588",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2925,
+    "name": "BODY SHOP",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "G-19",
+    "phone": "+6221 6667 6505",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2926,
+    "name": "PERFECT HEALTH",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "LG No. 15",
+    "phone": "+6221 6667 6671",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2927,
+    "name": "CENTURY HEALTHCARE",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "LG-11",
+    "phone": "+6221 6667 6255",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2928,
+    "name": "GNC",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "LG-18",
+    "phone": "+6221 6667 6363",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2929,
+    "name": "HAIR CODE",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "UG-10",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2930,
+    "name": "JOHNNY ANDREAN SALON",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "UG-11,12",
+    "phone": "+6221 6667 6650",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2931,
+    "name": "BODY CONTOURS",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "UG-35",
+    "phone": "+6221 6667 6828",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2932,
+    "name": "BEAUTY CREDIT",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "UG-42",
+    "phone": "+6221 6667 6698",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2933,
+    "name": "IRWAN TEAM HAIR DESIGN",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "UG-47,48",
+    "phone": "+6221 6667 6566",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2934,
+    "name": "KETTLER",
+    "category": "Sports",
+    "category_id": 9,
+    "unit": "1 unit 21",
+    "phone": "+6221 6667 6503",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2935,
+    "name": "NIKE",
+    "category": "Sports",
+    "category_id": 9,
+    "unit": "G-23,25",
+    "phone": "+6221 6667 6382",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2936,
+    "name": "B-PIT ",
+    "category": "Sports",
+    "category_id": 9,
+    "unit": "LG Floor Unit 12",
+    "phone": "+6221 6667 6599",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2937,
+    "name": "SPORTS STATION",
+    "category": "Sports",
+    "category_id": 9,
+    "unit": "UG-19,20,21",
+    "phone": "+6221 6667 6601",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2938,
+    "name": "SHAMBHALA",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "1 unit 45",
+    "phone": "+6221 6667 6811",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2939,
+    "name": "SUPER RIDERS",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "1 unit 46",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2940,
+    "name": "POLKA",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "3-28,29",
+    "phone": "+6221 6667 6277",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2941,
+    "name": "GLORY GALLERY",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "3-IC-01",
+    "phone": "+6221 6667 6359",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2942,
+    "name": "SOGO",
+    "category": "Departmental Stores",
+    "category_id": 12,
+    "unit": "#G-02, #UG-05, #1-08, #2-08, #3-15",
+    "phone": "+6221 6667 6555",
+    "mall_id": 17,
+    "floor": "GF"
+  },
+  {
+    "id": 2943,
+    "name": "YAMAHA STAR MUSIC",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "1 unit 12",
+    "phone": "+6221 6667 6331",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2944,
+    "name": "GYMBOREE",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "1 unit 16",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2945,
+    "name": "EMPOKIDS",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "1 unit 31",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2946,
+    "name": "TIMEZONE",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "4 unit 18",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2947,
+    "name": "DISC TARRA",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "4 unit 46",
+    "phone": "+6221 6667 6251",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2948,
+    "name": "XXI",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "5 unit 1",
+    "phone": "+6221 6667 6421",
+    "mall_id": 17,
+    "floor": "5"
+  },
+  {
+    "id": 2949,
+    "name": "DE SOUND",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "Lantai 2 Unit 07",
+    "phone": "+6221 6667 6702",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2950,
+    "name": "VX GAMES",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "LGF unit 20",
+    "phone": "+6221 6667 6677",
+    "mall_id": 17,
+    "floor": "LG"
+  },
+  {
+    "id": 2951,
+    "name": "JACO TV SHOPPING",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "1 unit 19",
+    "phone": "+6221 6667 6600",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2952,
+    "name": "ADVANCE",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "1 Unit 23",
+    "phone": "+6221 6667 6275",
+    "mall_id": 17,
+    "floor": "1"
+  },
+  {
+    "id": 2953,
+    "name": "BOFITY KITCHEN",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3 unit 06",
+    "phone": "+6221 6667 6593",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2954,
+    "name": "AMEN",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3 unit 08",
+    "phone": "+6221 6667 6431",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2955,
+    "name": "HOME DECOR",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3 unit 22",
+    "phone": "+6221 6667 6360",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2956,
+    "name": "LADY AMERICANA",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3 unit 27",
+    "phone": "+6221 6667 6395",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2957,
+    "name": "MELANDAS",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3 unit 30",
+    "phone": "+6221 6667 6252",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2958,
+    "name": "SIMMONS",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3 unit 31",
+    "phone": "+6221 6667 6295",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2959,
+    "name": "LORENZA",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3 unit 51",
+    "phone": "+6221 6667 6385",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2960,
+    "name": "SLEEP SHOP",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3 unit 52",
+    "phone": "+6221 6667 6373",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2961,
+    "name": "ROMANCE",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3-03,05",
+    "phone": "+6221 6667 6533",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2962,
+    "name": "DREAMLINE GALLERY",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3-11,12",
+    "phone": "+6221 6667 6386",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2963,
+    "name": "M CLASSIC",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3-16,17",
+    "phone": "+6221 6667 6318",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2964,
+    "name": "AMERICAN GIANT MATTRESS",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3-23,25,26",
+    "phone": "+6221 6667 6278",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2965,
+    "name": "CELLINI",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3-36,37,40,41",
+    "phone": "+6221 6667 6361",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2966,
+    "name": "ARISTON",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3-43,45,32",
+    "phone": "+6221 6667 6532",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2967,
+    "name": "VINOTI LIVING | VL BRIO",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3-50,49,48,47,46",
+    "phone": "+6221 6667 6268",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2968,
+    "name": "CASAMODA",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3-53,55",
+    "phone": "+6221 6667 6407",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2969,
+    "name": "OXONE",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "4 unit 52",
+    "phone": "+6221 6667 6586",
+    "mall_id": 17,
+    "floor": "4"
+  },
+  {
+    "id": 2970,
+    "name": "KITCHEN ART",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "Lantai 3",
+    "phone": "+6221 6667 6532",
+    "mall_id": 17,
+    "floor": "3"
+  },
+  {
+    "id": 2971,
+    "name": "ACE HARDWARE",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "UG-23,25",
+    "phone": "+6221 2901 7926",
+    "mall_id": 17,
+    "floor": "UG"
+  },
+  {
+    "id": 2972,
+    "name": "EARLY LEARNING CENTER | PANCIOUS",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2-29,30",
+    "phone": "",
+    "mall_id": 17,
+    "floor": "2"
+  },
+  {
+    "id": 2973,
+    "name": "GBI",
+    "category": "Education & Enrichments",
+    "category_id": 15,
+    "unit": "5 unit 02",
+    "phone": "+6221 6667 6670",
+    "mall_id": 17,
+    "floor": "5"
+  },
+  {
+    "id": 2974,
+    "name": "Bank Mandiri Cash Outlet",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "Lantai 5 Blok D No. 27",
+    "phone": "+6221 3001 2229",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 2975,
+    "name": "Mandiri Tunas Finance",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "Level 3A Blok Al 002-003",
+    "phone": "+6221 2998 6250",
+    "mall_id": 16,
+    "floor": "3A"
+  },
+  {
+    "id": 2976,
+    "name": "Juntaq Air Mineral",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "Lt. LG. Blok A No 96",
+    "phone": "+6285 6853 8916",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2977,
+    "name": "Gessstore (Global Electronics Security System) - CCTV",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "Lt. UG Blok A No. 92",
+    "phone": "+62819 0831 8000",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 2978,
+    "name": "Office",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "Lt.UG. No 71-72A",
+    "phone": "+6221 8030 8481",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 2979,
+    "name": "Bank Central Asia",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "Upper Ground Blok D No. 16",
+    "phone": "+6221 3001 7777",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 2980,
+    "name": "Mandala Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "",
+    "phone": "",
+    "mall_id": 16,
+    "floor": "2"
+  },
+  {
+    "id": 2981,
+    "name": "Sinar Terang Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "",
+    "phone": "",
+    "mall_id": 16,
+    "floor": "2"
+  },
+  {
+    "id": 2982,
+    "name": "PT. NCS",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt LG Blok A No175",
+    "phone": "+6221 3001 3493",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2983,
+    "name": "PT. Nidolux Sukses Abadi",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt. G Blok A No 62,63,66",
+    "phone": "+6221 4280 0112",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 2984,
+    "name": "Surya Agung",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt. G Blok A No 84",
+    "phone": "+6221 3001 7456",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 2985,
+    "name": "Vina Rose",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt. G Blok B No 08",
+    "phone": "+6221 3001 7314",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 2986,
+    "name": "PT.Nepthonic System",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.G Blok B No 79-80",
+    "phone": "+6221 9388 6915",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 2987,
+    "name": "CV.55 Express",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok A No 105",
+    "phone": "+6221 3001 1755",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2988,
+    "name": "Terang Mulia stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B No 108-110",
+    "phone": "+6221 3001 3378",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2989,
+    "name": "CBM",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B No 111-116",
+    "phone": "+6221 300 1326",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2990,
+    "name": "Accessories BK",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B No 143",
+    "phone": "+6221 3001 3234",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2991,
+    "name": "CV.Mitra tehnik Sentosa",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B No 157",
+    "phone": "+6221 3001 3059",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2992,
+    "name": "Petromindo Perkasa",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B No 161",
+    "phone": "+6221 3001 3111",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2993,
+    "name": "X-Cell Print",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B No 168",
+    "phone": "+6221 3001 3131",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2994,
+    "name": "CV. Faryo Dinamika Putra",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B No 172-173",
+    "phone": "+6221 3001 3261",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2995,
+    "name": "Surya Jaya",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B no 179",
+    "phone": "+6221 3001 3252",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2996,
+    "name": "Megatron",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B No 181",
+    "phone": "+6221 6831 2551",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2997,
+    "name": "Triple B",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B No 88",
+    "phone": "+6221 3001 3309",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2998,
+    "name": "PD.Mitra Abadi",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B No 93",
+    "phone": "+6221 3001 1718",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 2999,
+    "name": "Internusa Jaya Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok B No 99-100 & 175",
+    "phone": "+6221 3001 1759",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3000,
+    "name": "Martha Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 06,08,12,15,22",
+    "phone": "+6221 3001 3179",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3001,
+    "name": "Saudara Jaya",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 108",
+    "phone": "+6221 3001 3106",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3002,
+    "name": "Vidi ATK",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 118",
+    "phone": "+6221 3001 3448",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3003,
+    "name": "Kacaba Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 120",
+    "phone": "+6221 3001 3344",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3004,
+    "name": "Venus Shop",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 132",
+    "phone": "+6221 3001 1701",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3005,
+    "name": "Mulya Jaya Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 134",
+    "phone": "+6221 3001 3248",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3006,
+    "name": "Buana Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 138",
+    "phone": "+6221 3001 3538",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3007,
+    "name": "Timur Jaya",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 143",
+    "phone": "+6221 3001 3566",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3008,
+    "name": "Graha Cipta",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 145",
+    "phone": "+6221 3001 3518",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3009,
+    "name": "Mulia Agung Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 28",
+    "phone": "+6221 3001 3211",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3010,
+    "name": "Jayadi Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 36",
+    "phone": "+6221 3001 3489",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3011,
+    "name": "San Jaya Plastik",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 37 & 42",
+    "phone": "+6221 3001 3337",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3012,
+    "name": "JJ Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 43",
+    "phone": "+6221 9967 2267",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3013,
+    "name": "Cahaya Agung",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 45-46",
+    "phone": "+6221 3001 3308",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3014,
+    "name": "Winfa Indah Jaya",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 49",
+    "phone": "+6221 3001 3545",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3015,
+    "name": "Smart Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 52",
+    "phone": "+6221 3001 3152",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3016,
+    "name": "Kharisma Jaya Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 53 & 62",
+    "phone": "+6221 3001 3395",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3017,
+    "name": "Mandala Prima",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 67",
+    "phone": "+6221 3001 3223",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3018,
+    "name": "Stockies 147 TIENS",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "LT.LG Blok C No 69-70",
+    "phone": "+6221 3001 3270",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3019,
+    "name": "Bintang Cemerlang",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 76",
+    "phone": "+6285 5110 8551",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3020,
+    "name": "JBC Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 80-81",
+    "phone": "+6221 300 1311",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3021,
+    "name": "Daun Mas",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG Blok C No 83",
+    "phone": "+6221 3001 3181",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3022,
+    "name": "PT.Andrayatama",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG. Blok B No 170-171",
+    "phone": "+6221 3001 3261",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3023,
+    "name": "Cipta Indah Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.LG.Blok C No 23 & 39",
+    "phone": "+6221 3001 3595",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3024,
+    "name": "Format Indonesia",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.UG. No 11",
+    "phone": "+6221 3001 7800",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3025,
+    "name": "Unitech",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.UG. No 34",
+    "phone": "+6221 9175 9866",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3026,
+    "name": "CCS Supplies",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.UG. No 36 & 39",
+    "phone": "+6221 3001 3253",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3027,
+    "name": "Mega Sukses Jaya",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.UG. No 41",
+    "phone": "+6221 7097 5487",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3028,
+    "name": "Langit Biru",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.UG. No 53-54",
+    "phone": "+6221 3001 7631",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3029,
+    "name": "APEX",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.UG. No 67",
+    "phone": "+6221 8832 6735",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3030,
+    "name": "Prima Ink Solution",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.UG. No 77",
+    "phone": "+6221 3001 7844",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3031,
+    "name": "Dwi Indah",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "Lt.UG. No 81",
+    "phone": "+6221 3001 7618",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3032,
+    "name": "Carisas Stationery",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "ZLt.LG Blok C No 105-106",
+    "phone": "+6221 9291 9555",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3033,
+    "name": "Silomide",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "",
+    "phone": "",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3034,
+    "name": "Love Cinta",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt G Blok A No 102",
+    "phone": "+6221 3001 7412",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3035,
+    "name": "Samsons",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt UG .No 37-38",
+    "phone": "+6221 3001 7776",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3036,
+    "name": "Optik Mitra mas",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt. 1 Blok 09",
+    "phone": "+6221 3001 1038",
+    "mall_id": 16,
+    "floor": "1"
+  },
+  {
+    "id": 3037,
+    "name": "Pacific Jaya",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt. G Blok A No 98",
+    "phone": "+6221 3001 7083",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3038,
+    "name": "Nasywah",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt. G Blok B No 05",
+    "phone": "+6221 3001 7202",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3039,
+    "name": "Loris",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt. G Blok B No 16,19",
+    "phone": "+62852 8960 5200",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3040,
+    "name": "Wenda",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok A No 1,2,6.7",
+    "phone": "+6221 3001 7208",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3041,
+    "name": "CHEM",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok A No 15-16",
+    "phone": "+6221 300 1703",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3042,
+    "name": "GAFF",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok A No 9-10",
+    "phone": "+6221 3001 7372",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3043,
+    "name": "Cindy Dior",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 02",
+    "phone": "+6221 9476 4208",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3044,
+    "name": "Lucky Watch",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 10",
+    "phone": "+6221 3001 7473",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3045,
+    "name": "Kawai",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 107-108",
+    "phone": "+6221 3001 7345",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3046,
+    "name": "Rinai",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 25-26",
+    "phone": "+62812 1378 6803",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3047,
+    "name": "Win-win",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 33",
+    "phone": "+6221 3001 7483",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3048,
+    "name": "Step One",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 35",
+    "phone": "+6221 3001 7332",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3049,
+    "name": "Aneka",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 36-37",
+    "phone": "+6221 3001 7482",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3050,
+    "name": "Valeryan",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 40",
+    "phone": "+6221 3001 7359",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3051,
+    "name": "Red Top",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 42",
+    "phone": "+6221 3001 7042",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3052,
+    "name": "Visual",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 45,50",
+    "phone": "+62812 1035 3889",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3053,
+    "name": "Favo Fashion",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 6 & 9",
+    "phone": "+6221 3001 7473",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3054,
+    "name": "Agape shop",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok B No 88",
+    "phone": "+6221 3001 7055",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3055,
+    "name": "Rina Batik & Muslim",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok C No 84",
+    "phone": "+6281 7678 5322",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3056,
+    "name": "Mofallo",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok C No.85",
+    "phone": "+62813 8039 0998",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3057,
+    "name": "TirtaHadi",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G Blok D No 26",
+    "phone": "+6221 300 1749",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3058,
+    "name": "Takara Collection",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G No Blok B 17-18",
+    "phone": "+6221 3001 7045",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3059,
+    "name": "Kirey",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G No. Blok B No 21",
+    "phone": "+6221 3001 7321",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3060,
+    "name": "Studio Fashion",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.G No. Blok B No 29-30",
+    "phone": "+62813 1453 3553",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3061,
+    "name": "Serba Indah",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 06-09",
+    "phone": "+6221 3001 7685",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3062,
+    "name": "Optik International",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 07-08",
+    "phone": "+6221 3001 7877",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3063,
+    "name": "Adam Pour EVe",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 10 & 15",
+    "phone": "+62813 8039 0998",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3064,
+    "name": "Ratna Jaya",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 15-16",
+    "phone": "+6221 3001 7538",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3065,
+    "name": "Citra Busana",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 16",
+    "phone": "",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3066,
+    "name": "Noly",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 17",
+    "phone": "+6221 3001 7546",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3067,
+    "name": "Vanel",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 18-21",
+    "phone": "+6221 3001 7908",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3068,
+    "name": "Ricka Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 20",
+    "phone": "+6221 3001 7877",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3069,
+    "name": "Global Persada",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 21",
+    "phone": "+62813 8039 0998",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3070,
+    "name": "Vialli Fashion",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 22",
+    "phone": "+6221 9695 1027",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3071,
+    "name": "Agnes Fashion",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 24,27,108",
+    "phone": "+6221 9312 2125",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3072,
+    "name": "Amanda Fashion",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 33",
+    "phone": "+6221 9565 2120",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3073,
+    "name": "Lemon's",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 46",
+    "phone": "+6221 3001 7534",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3074,
+    "name": "Arline",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 55",
+    "phone": "+6221 3001 7709",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3075,
+    "name": "TJ",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 56",
+    "phone": "+6281 1580 1126",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3076,
+    "name": "Inovasi",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 57",
+    "phone": "+62812 8825 1015",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3077,
+    "name": "B&M Collections",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 60",
+    "phone": "+62858 1432 3158",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3078,
+    "name": "Jilly Kids",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 67",
+    "phone": "+6281 2926 0878",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3079,
+    "name": "Adam Style",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "Lt.UG. No 8 -11",
+    "phone": "+6221 3001 7601",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3080,
+    "name": "chunagon",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "6th floor",
+    "phone": "+6221 3001 1001",
+    "mall_id": 16,
+    "floor": "6"
+  },
+  {
+    "id": 3081,
+    "name": "A&W",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "building pelataran lobby timur",
+    "phone": "+6221 3001 1460",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3082,
+    "name": "Tara Food & Beverages",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Ground floor, No. A-87",
+    "phone": "+6221 9282 3652",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3083,
+    "name": "Ala Pasta",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai Dasar - Lobby Selatan",
+    "phone": "+6221 9229 8911",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3084,
+    "name": "Kedai Tomyam",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai Dasar Blok D",
+    "phone": "+6221 4188 5853",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3085,
+    "name": "D'cost",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai G Lobby Selatan",
+    "phone": "+6221 2998 6699",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3086,
+    "name": "Utmost",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai UG Blok A No. 72D",
+    "phone": "+6221 3001 8888",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3087,
+    "name": "Waroeng Poedjoek",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lantai UG Blok A No. 94 - 95",
+    "phone": "+6221 3001 8888",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3088,
+    "name": "Es Klamur dan Bakso Matador",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lt. 2 Blok D, Unit 39-40",
+    "phone": "+6221 2998 6699",
+    "mall_id": 16,
+    "floor": "2"
+  },
+  {
+    "id": 3089,
+    "name": "Kantin Suroboyo",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lt. Ground",
+    "phone": "+6221 2998 6699",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3090,
+    "name": "Liang Hal",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lt. Ground",
+    "phone": "+6221 2998 6699",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3091,
+    "name": "Mie Aceh Barona",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "Lt. Ground",
+    "phone": "+6221 2998 6699",
+    "mall_id": 16,
+    "floor": "GF"
+  },
+  {
+    "id": 3092,
+    "name": "Kantin Sidomulya",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG # D.38",
+    "phone": "+6221 9819 2911",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3093,
+    "name": "Fast Computer",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "Lt.LG Blok B No 156",
+    "phone": "+6221 3001 3303",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3094,
+    "name": "Bravo Digital",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "Lt.LG Blok B No 26-27",
+    "phone": "+6221 660 3078",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3095,
+    "name": "Bless Computer",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "Lt.LG Blok C No 60-61",
+    "phone": "+6221 3209 2527",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3096,
+    "name": "Lucky Computer",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "Lt.UG. No 110-111",
+    "phone": "+6221 3001 7674",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3097,
+    "name": "Star Elektronik",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "Lt.UG. No 38",
+    "phone": "+6221 3001 7933",
+    "mall_id": 16,
+    "floor": "UG"
+  },
+  {
+    "id": 3098,
+    "name": "Klinik Matahari",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "Lt. 1 No 19",
+    "phone": "+6221 9798 8657",
+    "mall_id": 16,
+    "floor": "1"
+  },
+  {
+    "id": 3099,
+    "name": "Lifespa Fitness",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "WTC Mangga Dua Lantai 12",
+    "phone": "+6221 3001 8833",
+    "mall_id": 16,
+    "floor": "12"
+  },
+  {
+    "id": 3100,
+    "name": "Fitness Center",
+    "category": "Sports",
+    "category_id": 9,
+    "unit": "WTC Mangga Dua Lantai 12",
+    "phone": "+6221 3001 8888",
+    "mall_id": 16,
+    "floor": "12"
+  },
+  {
+    "id": 3101,
+    "name": "Tamiya Center (Zero 8)",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "Lt.LG Blok B No 103 & 109",
+    "phone": "+6221 3001 3277",
+    "mall_id": 16,
+    "floor": "LG"
+  },
+  {
+    "id": 3102,
+    "name": "CX Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": " Lantai 3 No. 39",
+    "phone": "+6221 9290 9986",
+    "mall_id": 16,
+    "floor": "3"
+  },
+  {
+    "id": 3103,
+    "name": "BPK Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": " Lantai 7, JL Mangga Dua Raya, Lot C 11-12",
+    "phone": "+6221 9955 3531",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3104,
+    "name": "Auto Mobil 2000",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": " Lantai 8 Blok E 10 - E 12",
+    "phone": "+6221 7055 7777",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3105,
+    "name": "Neutro Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "3rd Floor No. 11 - 21-I",
+    "phone": "+6221 4137 3546",
+    "mall_id": 16,
+    "floor": "3"
+  },
+  {
+    "id": 3106,
+    "name": "Goysen Cars",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "3rd Floor No. 20",
+    "phone": "+6221 7016 8002",
+    "mall_id": 16,
+    "floor": "3"
+  },
+  {
+    "id": 3107,
+    "name": "Auto Zone",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "3rd Floor No. 28-29",
+    "phone": "+6221 3001 3959",
+    "mall_id": 16,
+    "floor": "3"
+  },
+  {
+    "id": 3108,
+    "name": "Kevin Jaya Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "3rd Floor No. 30-31",
+    "phone": "+6221 9529 9136",
+    "mall_id": 16,
+    "floor": "3"
+  },
+  {
+    "id": 3109,
+    "name": "DC Specialist Car",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "3rd Floor No. 5 - 91",
+    "phone": "+6221 7025 1780",
+    "mall_id": 16,
+    "floor": "3"
+  },
+  {
+    "id": 3110,
+    "name": "Power Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "3rd Floor No. 5-9",
+    "phone": "+6221 3001 3900",
+    "mall_id": 16,
+    "floor": "3"
+  },
+  {
+    "id": 3111,
+    "name": "DNS Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "3rd Floor No. 9",
+    "phone": "+6221 2873 6736",
+    "mall_id": 16,
+    "floor": "3"
+  },
+  {
+    "id": 3112,
+    "name": "GS Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "3th Floor No. 5,",
+    "phone": "+6221 3206 8988",
+    "mall_id": 16,
+    "floor": "3"
+  },
+  {
+    "id": 3113,
+    "name": "Mobil Klik",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "5th Floor No. 501",
+    "phone": "+6221 3001 2378",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3114,
+    "name": "Golden Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "5th Floor No. 503",
+    "phone": "+6221 3001 2329",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3115,
+    "name": "Auto Show 1",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "5th Floor No. 511",
+    "phone": "+6221 9389 9212",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3116,
+    "name": "Panca Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "5th Floor No. 512",
+    "phone": "+6221 2888 8077",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3117,
+    "name": "GBU Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "5th Floor No. 516-517",
+    "phone": "+6221 9500 9816",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3118,
+    "name": "Premiere Auto Car",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "5th Floor No. 520-521",
+    "phone": "+6221 2998 6169",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3119,
+    "name": "Quantum",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "5th Floor No. 527",
+    "phone": "+6221 3001 8679",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3120,
+    "name": "Rafael Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "5th Floor No. 530-532",
+    "phone": "+6221 9372 3500",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3121,
+    "name": "First Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "5th Floor No. 539",
+    "phone": "+6221 2998 6111",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3122,
+    "name": "Anugerah Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "5th Floor, no 581",
+    "phone": "+6221 3413 3138",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3123,
+    "name": "Brn Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "5th Floor, No. 505",
+    "phone": "+6221 4632 4522",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3124,
+    "name": "Dreamcars",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "6th Floor",
+    "phone": "+6221 3001 2393",
+    "mall_id": 16,
+    "floor": "6"
+  },
+  {
+    "id": 3125,
+    "name": "Auto Track",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "6th Floor No. 609-610",
+    "phone": "+6221 2998 6171",
+    "mall_id": 16,
+    "floor": "6"
+  },
+  {
+    "id": 3126,
+    "name": "Jasa Ivan Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok B No. 20-21",
+    "phone": "+6221 9262 9789",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3127,
+    "name": "Harmony Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok B No. 4-5",
+    "phone": "+6221 6863 1788",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3128,
+    "name": "SGS Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok B No. 5-6",
+    "phone": "+6221 9386 6565",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3129,
+    "name": "MR Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok B No. 7-8",
+    "phone": "+6221 6852 3821",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3130,
+    "name": "Bursa Mobil",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok C No. 11-12",
+    "phone": "+6221 9529 3733",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3131,
+    "name": "Makmur Abadi Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok C No. 25 - 26",
+    "phone": "+6221 9277 5289",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3132,
+    "name": "Felix Motor Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok D No. 15-16",
+    "phone": "+6221 8321 8999",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3133,
+    "name": "Auto Jaya",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok D No. 26",
+    "phone": "+6221 7045 8685",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3134,
+    "name": "PMM Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok D No. 29",
+    "phone": "+6221 8536 0492",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3135,
+    "name": "Blezz Cars",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok E28",
+    "phone": "+6221 9600 2020",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3136,
+    "name": "Auto 77",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok G 20-21",
+    "phone": "+6221 9296 6766",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3137,
+    "name": "Auto Sahabat",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok J No. 24",
+    "phone": "+6221 9978 9293",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3138,
+    "name": "Ferin Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Blok. E10 - E11",
+    "phone": "+6221 9290 3186",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3139,
+    "name": "Abadi Jaya Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Lot B15 C15-17",
+    "phone": "+6221 9305 7765",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3140,
+    "name": "Mobil 68",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Lot B19-B20",
+    "phone": "+6221 6828 1880",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3141,
+    "name": "Hen's Mobil",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Lot D No. 22 - 24",
+    "phone": "+6221 6800 3599",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3142,
+    "name": "Abigail Car",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Lot E 22-23 & 24-25",
+    "phone": "+6221 9809 9098",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3143,
+    "name": "Berkat Abadi Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Lot F No. 12-14",
+    "phone": "+6221 9971 1168",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3144,
+    "name": "DM Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Lot H21-22",
+    "phone": "+6221 3331 1131",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3145,
+    "name": "Metropolitan Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor Lot. J21-J22 No. 23",
+    "phone": "+6221 2595 5799",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3146,
+    "name": "Ayung Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor No. 9",
+    "phone": "+6221 4643 5757",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3147,
+    "name": "AG Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "7th Floor, Blok E12-15",
+    "phone": "+6221 9809 0118",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3148,
+    "name": "Smile Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor Blok B No. 10-12",
+    "phone": "+6221 7161 2111",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3149,
+    "name": "Eddy Chandra Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor Blok B20-21 & C20-21",
+    "phone": "+6281 895 9575",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3150,
+    "name": "Cideng Barat Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor Blok B4-B7& C4-C6",
+    "phone": "+6221 7035 0076",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3151,
+    "name": "Lotus Shelby",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor Blok D No. 7 - 8",
+    "phone": "+6221 7156 7850",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3152,
+    "name": "Rayhan Mobil",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor Blok D. 22-23",
+    "phone": "+6221 9269 4599",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3153,
+    "name": "Sinar Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor Blok D6",
+    "phone": "+6221 4446 3682",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3154,
+    "name": "Motoka Mobil",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor Blok F No. 20",
+    "phone": "+6221 9922 3223",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3155,
+    "name": "Berkat Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor Blok F No. 23-24",
+    "phone": "+6281 5905 6788",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3156,
+    "name": "Bless Auto Land",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor Blok J No. 20-21",
+    "phone": "+6221 7079 3997",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3157,
+    "name": "Auto VID",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor No. 22",
+    "phone": "+6221 9333 3700",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3158,
+    "name": "DMN Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor No. 3A",
+    "phone": "+6221 3231 0939",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3159,
+    "name": "Rio Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "8th Floor, Blok B. 25-2",
+    "phone": "+6221 9927 3135",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3160,
+    "name": "Jeus Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor",
+    "phone": "+6221 6897 9797",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3161,
+    "name": "Auto89",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor Blok B 8-9",
+    "phone": "+6221 9814 2963",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3162,
+    "name": "DHM Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor Blok B No. 18 - 19",
+    "phone": "+6221 4578 4343",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3163,
+    "name": "Jono Jaya Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor Blok C No. 15-17",
+    "phone": "+6221 4131 7805",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3164,
+    "name": "Putra Jambi Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor Blok C No. 7 - 9",
+    "phone": "+6221 5697 4406",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3165,
+    "name": "SKG Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor Blok D No. 21 - 22",
+    "phone": "+6221 9386 2376",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3166,
+    "name": "Golden Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor Blok D No. 22-24",
+    "phone": "+6221 9054 2417",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3167,
+    "name": "Autolabz",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor Blok D4/E4",
+    "phone": "+6221 9255 6650",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3168,
+    "name": "AW Mobil",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor Blok K No. 23-24",
+    "phone": "+6221 9996 0735",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3169,
+    "name": "Creative Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor Blok L-M No. 27",
+    "phone": "+6221 3223 5823",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3170,
+    "name": "Ben Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor Lot C No. 18-19",
+    "phone": "+6221 9530 0255",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3171,
+    "name": "Cahaya Baru Mobil",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor No. 8, Lot D-10 & E-8",
+    "phone": "+6221 6830 1989",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3172,
+    "name": "Aneka Berkat Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "9th Floor, Blok E No. 17-18",
+    "phone": "+6221 6865 8202",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3173,
+    "name": "Balai Otomas",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Blok A, No. 72 B",
+    "phone": "+6221 6082 8817",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3174,
+    "name": "PT. Primary Propertindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 3 Blok DD",
+    "phone": "+6221 2998 6699",
+    "mall_id": 16,
+    "floor": "3"
+  },
+  {
+    "id": 3175,
+    "name": "SKY Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 3 No. 27",
+    "phone": "+6221 7091 9393",
+    "mall_id": 16,
+    "floor": "3"
+  },
+  {
+    "id": 3176,
+    "name": "Khatulistiwa Auto Gallery",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 5, No. 509,",
+    "phone": "+6221 3269 4774",
+    "mall_id": 16,
+    "floor": "5"
+  },
+  {
+    "id": 3177,
+    "name": "Formula One Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 6 No. 631",
+    "phone": "+6221 3599 9508",
+    "mall_id": 16,
+    "floor": "6"
+  },
+  {
+    "id": 3178,
+    "name": "Auto Prima",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 6 No.616-618",
+    "phone": "+6221 9519 7713",
+    "mall_id": 16,
+    "floor": "6"
+  },
+  {
+    "id": 3179,
+    "name": "Lancar Jaya Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 7 Blok B16-17",
+    "phone": "+6221 9793 9393",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3180,
+    "name": "Andry Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 7 Blok F 22-24",
+    "phone": "+62857 8035 9911",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3181,
+    "name": "Alfira Jaya Mobil",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 7 Blok G/23",
+    "phone": "+6221 6874 1241",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3182,
+    "name": "Auto Win",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 7 Blok H/29",
+    "phone": "+6221 9496 9794",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3183,
+    "name": "ADR Jaya Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 7 C8",
+    "phone": "+6221 9343 3718",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3184,
+    "name": "Auto 33",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 7 Lot B7-B8",
+    "phone": "+6221 6882 2335",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3185,
+    "name": "Sinar Makmur Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 7 Lot E,F,G,H 18",
+    "phone": "+6221 8327 9170",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3186,
+    "name": "Arizona Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 7 Lot I 20 -21",
+    "phone": "+6221 9970 7878",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3187,
+    "name": "Teddy Auto Car",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 7 No. C10-C11",
+    "phone": "+6221 9583 1886",
+    "mall_id": 16,
+    "floor": "7"
+  },
+  {
+    "id": 3188,
+    "name": "M2 Motoka Mobil",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 8",
+    "phone": "+6221 9234 5388",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3189,
+    "name": "Auto Second",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 8 Blok B12-B13",
+    "phone": "+6285 5109 9090",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3190,
+    "name": "Kartika Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 8 Blok B14",
+    "phone": "+6221 7037 9425",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3191,
+    "name": "As Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 8 Blok C No. 21-22",
+    "phone": "+6221 7008 6670",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3192,
+    "name": "Maju Jaya Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 8 Blok F No. 18",
+    "phone": "+6221 9903 6609",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3193,
+    "name": "Tri Teguh Mobil",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 8 Lot D17-D18",
+    "phone": "+6281 890 5539",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3194,
+    "name": "Citra Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 8, Blok H 20-21",
+    "phone": "+6221 9298 5678",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3195,
+    "name": "BCA Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 8, JL Mangga Dua Raya, Blok C26-28",
+    "phone": "+6221 9621 1133",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3196,
+    "name": "Asia Racing Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 8,Blok B No. 23-25",
+    "phone": "+6221 6817 7928",
+    "mall_id": 16,
+    "floor": "8"
+  },
+  {
+    "id": 3197,
+    "name": "Win Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 9 Blok B-C-D-E-F No. 29",
+    "phone": "+6221 9265 8137",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3198,
+    "name": "Dian Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 9 Blok E5/E6",
+    "phone": "+6221 9667 5558",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3199,
+    "name": "Auto Ride",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 9 D4",
+    "phone": "+6221 8318 8856",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3200,
+    "name": "GYM Automobile",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 9 Lot B14,B15,B16",
+    "phone": "+6221 9927 3455",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3201,
+    "name": "A3 Automotive",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Lantai 9 Lot E22-23",
+    "phone": "+62812 1916 8808",
+    "mall_id": 16,
+    "floor": "9"
+  },
+  {
+    "id": 3202,
+    "name": "Adonai Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Level 3A No. 32-33",
+    "phone": "+6221 3001 2359",
+    "mall_id": 16,
+    "floor": "3A"
+  },
+  {
+    "id": 3203,
+    "name": "XLI Mobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Level 3A No. 35A",
+    "phone": "+6221 9884 9002",
+    "mall_id": 16,
+    "floor": "3A"
+  },
+  {
+    "id": 3204,
+    "name": "Tri Tunggal Motor",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Level 3A No. 56-59",
+    "phone": "+6221 3001 8666",
+    "mall_id": 16,
+    "floor": "3A"
+  },
+  {
+    "id": 3205,
+    "name": "Auto Deal",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Level 3A No. 62",
+    "phone": "+6221 3001 8722",
+    "mall_id": 16,
+    "floor": "3A"
+  },
+  {
+    "id": 3206,
+    "name": "Auto Glory",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Level 3A No. 66",
+    "phone": "+6221 3001 2356",
+    "mall_id": 16,
+    "floor": "3A"
+  },
+  {
+    "id": 3207,
+    "name": "Vico Auto",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Level 3A No. 68-69",
+    "phone": "+6221 3001 8550",
+    "mall_id": 16,
+    "floor": "3A"
+  },
+  {
+    "id": 3208,
+    "name": "Bless Car",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "Level 3A No.50",
+    "phone": "+6221 3001 8577",
+    "mall_id": 16,
+    "floor": "3A"
+  },
+  {
+    "id": 3209,
+    "name": "Blessmobilindo",
+    "category": "Automotive",
+    "category_id": 16,
+    "unit": "WTC Mangga Dua Lantai 5 No. 525",
+    "phone": "+6221 3253 1212",
+    "mall_id": 16,
+    "floor": "5"
+  }
+]

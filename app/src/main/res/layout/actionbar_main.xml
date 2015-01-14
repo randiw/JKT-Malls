@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/actionbar">
+
+    <com.balysv.materialmenu.MaterialMenuView
+        style="@style/actionbar_menu"
+        android:id="@+id/menu" />
+
+    <TextView
+        style="@style/actionbar_title"
+        android:id="@+id/title"
+        android:text="JKT Malls"
+        android:layout_toRightOf="@+id/menu" />
+
+    <EditText
+        android:id="@+id/search_input"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@+id/menu"
+        android:layout_toLeftOf="@+id/search_icon"
+        android:textColor="@android:color/white"
+        android:textCursorDrawable="@null"
+        android:textColorHint="@color/purple_snuff"
+        android:hint="Search Mall" />
+
+    <com.github.johnkil.print.PrintView
+        xmlns:print="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/search_icon"
+        android:layout_width="@dimen/actionbar_height"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:padding="10dp"
+        print:iconColor="@android:color/white"
+        print:iconSize="22dp"
+        print:iconText="@string/ic_material_search" />
+
+</RelativeLayout>

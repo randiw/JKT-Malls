@@ -1,0 +1,5272 @@
+[
+  {
+    "id": 1,
+    "name": "Brown Salon",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (502-504)",
+    "phone": "+622172799479",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 2,
+    "name": "Christopher Salon",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (526-527)",
+    "phone": "+62217209143",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 3,
+    "name": "Cocola Waxing",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (528)",
+    "phone": "+622172799486",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 4,
+    "name": "Dewi Nails & Beauty",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (543)",
+    "phone": "+622196822424",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 5,
+    "name": "Haircode",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (536)",
+    "phone": "+62217209039",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 6,
+    "name": "Hannie Massage & Spa",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "4th (432-433)",
+    "phone": "+6281296316767",
+    "mall_id": 1,
+    "floor": "4"
+  },
+  {
+    "id": 7,
+    "name": "Indra Kusuma Salon",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (516-517)",
+    "phone": "+62217209112",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 8,
+    "name": "Johny Andrean",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (537-539)",
+    "phone": "+62217209028",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 9,
+    "name": "Johny Andrean School",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (514-515)",
+    "phone": "+622172799481",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 10,
+    "name": "Klinik Dr. Herawati",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (529)",
+    "phone": "+62217251255",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 11,
+    "name": "Lutuye Salon",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (519)",
+    "phone": "+62217209207",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 12,
+    "name": "Meiso Reflexology",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (541-542)",
+    "phone": "+62217209159",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 13,
+    "name": "Mr Kat",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (524)",
+    "phone": "+622172799488",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 14,
+    "name": "My Salon",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (510-513)",
+    "phone": "+62217209453",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 15,
+    "name": "Natural Therapy",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "3rd (301-302)",
+    "phone": "+62217209081",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 16,
+    "name": "Ratna Dewi Skin Care & Beauty Clinic",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "3rd (341)",
+    "phone": "+622199950706",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 17,
+    "name": "Rumah Totok",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (525)",
+    "phone": "+622190692277",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 18,
+    "name": "The Body Shop",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "UG (43B)",
+    "phone": "+62217209041",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 19,
+    "name": "With Smile Dental Clinic",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (522-523)",
+    "phone": "+62217209387",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 20,
+    "name": "Yopie Salon",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "4th (441-442)",
+    "phone": "+62217209315",
+    "mall_id": 1,
+    "floor": "4"
+  },
+  {
+    "id": 21,
+    "name": "Accent",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (8-10)",
+    "phone": "+62217209063",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 22,
+    "name": "Amco Jeans",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (137)",
+    "phone": "+62217209170",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 23,
+    "name": "Ayoeng Tailor",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (335)",
+    "phone": "+62217209228",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 24,
+    "name": "Batik Shinta",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (331)",
+    "phone": "+62217209108",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 25,
+    "name": "Belle Ivy Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (140)",
+    "phone": "+62217209421",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 26,
+    "name": "Cammomile",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (28)",
+    "phone": "+62217209080",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 27,
+    "name": "Cardinal",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (236)",
+    "phone": "+628282318433",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 28,
+    "name": "Cool Kids",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (332)",
+    "phone": "+62217209461",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 29,
+    "name": "Gianzo Tailor",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (304)",
+    "phone": "+62217209356",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 30,
+    "name": "Giordano",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (41-42)",
+    "phone": "+62217209085",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 31,
+    "name": "H & R",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (240)",
+    "phone": "+62217209470",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 32,
+    "name": "Kalea",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (07)",
+    "phone": "+62217209335",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 33,
+    "name": "Korz",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (44)",
+    "phone": "+62217209258",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 34,
+    "name": "Lea Store",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (136)",
+    "phone": "+62217209083",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 35,
+    "name": "Logo",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (40)",
+    "phone": "+62217209175",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 36,
+    "name": "Manzone",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (15)",
+    "phone": "+62217209031",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 37,
+    "name": "Men's Top",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (124-125)",
+    "phone": "+62217209463",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 38,
+    "name": "Minimal",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (39)",
+    "phone": "+62217209375",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 39,
+    "name": "Mint",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (01)",
+    "phone": "+62217209427",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 40,
+    "name": "Orange/Magnolia",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (29)",
+    "phone": "+62217209273",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 41,
+    "name": "Point Break & ID Girl",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (231-232)",
+    "phone": "+62217209216",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 42,
+    "name": "Polo Ralph Lauren",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (11 A)",
+    "phone": "+62217209256",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 43,
+    "name": "Posh Boy",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (235)",
+    "phone": "+62217209472",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 44,
+    "name": "PS",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (43)",
+    "phone": "+62217209163",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 45,
+    "name": "Salt & Pepper",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (18)",
+    "phone": "+62217230375",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 46,
+    "name": "Super Star",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (206)",
+    "phone": "+62217209075",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 47,
+    "name": "The Bra House",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (212-213)",
+    "phone": "+62217209306",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 48,
+    "name": "The Executive",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (216-217)",
+    "phone": "+62217209241",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 49,
+    "name": "Wacoal",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (27)",
+    "phone": "+62217209162",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 50,
+    "name": "Zoya",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (11)",
+    "phone": "+62217209450",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 51,
+    "name": "Absolute Quench",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (06 A)",
+    "phone": "+622198560646",
+    "mall_id": 1,
+    "floor": "LG"
+  },
+  {
+    "id": 52,
+    "name": "Ayam Goreng Fatmawati",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "6th (608-609)",
+    "phone": "+62217209091",
+    "mall_id": 1,
+    "floor": "6"
+  },
+  {
+    "id": 53,
+    "name": "Baso Malang Karapitan",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (23)",
+    "phone": "+62217209278",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 54,
+    "name": "Burger King",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (25)",
+    "phone": "+62217209371",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 55,
+    "name": "Caos Dahar Express",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "6th (633)",
+    "phone": "+62217209429",
+    "mall_id": 1,
+    "floor": "6"
+  },
+  {
+    "id": 56,
+    "name": "D'Cost",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "6th (635)",
+    "phone": "+62217209123",
+    "mall_id": 1,
+    "floor": "6"
+  },
+  {
+    "id": 57,
+    "name": "Domino's Pizza",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (12)",
+    "phone": "+62217209445",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 58,
+    "name": "Es Teller 77",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (16-17)",
+    "phone": "+62217209135",
+    "mall_id": 1,
+    "floor": "LG"
+  },
+  {
+    "id": 59,
+    "name": "Gokana Teppan",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (01-04)",
+    "phone": "+622172799509",
+    "mall_id": 1,
+    "floor": "LG"
+  },
+  {
+    "id": 60,
+    "name": "Hoka Hoka Bento",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (06 C)",
+    "phone": "+62217209128",
+    "mall_id": 1,
+    "floor": "LG"
+  },
+  {
+    "id": 61,
+    "name": "Kafe Ngemil",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (08 A)",
+    "phone": "+62217209468",
+    "mall_id": 1,
+    "floor": "LG"
+  },
+  {
+    "id": 62,
+    "name": "KFC",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (05)",
+    "phone": "+62217209126",
+    "mall_id": 1,
+    "floor": "LG"
+  },
+  {
+    "id": 63,
+    "name": "Omahe Mbok Giyem",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "6th (625)",
+    "phone": "+6281586475109",
+    "mall_id": 1,
+    "floor": "6"
+  },
+  {
+    "id": 64,
+    "name": "Pizza Hut",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "1st (128-132)",
+    "phone": "+62217209402",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 65,
+    "name": "Platinum",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (23)",
+    "phone": "+62217209088",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 66,
+    "name": "Restoran Sederhana",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (08)",
+    "phone": "+622172799505",
+    "mall_id": 1,
+    "floor": "LG"
+  },
+  {
+    "id": 67,
+    "name": "Richeese Factory",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (09)",
+    "phone": "+62217398780",
+    "mall_id": 1,
+    "floor": "LG"
+  },
+  {
+    "id": 68,
+    "name": "Solaria",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "6th (611-614)",
+    "phone": "+62217209155",
+    "mall_id": 1,
+    "floor": "6"
+  },
+  {
+    "id": 69,
+    "name": "Soto Betawi Casablanca",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "6th (607)",
+    "phone": "+622195448384",
+    "mall_id": 1,
+    "floor": "6"
+  },
+  {
+    "id": 70,
+    "name": "Warung Lombok",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "6th (629-630)",
+    "phone": "+62217209048",
+    "mall_id": 1,
+    "floor": "6"
+  },
+  {
+    "id": 71,
+    "name": "Absolut Gadget Accesorries & Fancy",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (340)",
+    "phone": "+62217209422",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 72,
+    "name": "Cindy & Yayang",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (241-242)",
+    "phone": "+622172799502",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 73,
+    "name": "Naughty",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (324-325)",
+    "phone": "+62217209202",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 74,
+    "name": "Spex Symbol",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (243)",
+    "phone": "+62217209034",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 75,
+    "name": "Stroberi",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (326)",
+    "phone": "+62217396176",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 76,
+    "name": "Tara's Collection",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (343)",
+    "phone": "+622196449535",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 77,
+    "name": "Vanqis",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (318-319)",
+    "phone": "+622146240017",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 78,
+    "name": "Wellcomm",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (306)",
+    "phone": "+62217209225",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 79,
+    "name": "Crown Watch",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (105)",
+    "phone": "+62217209269",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 80,
+    "name": "Fernando Jewellery",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (220)",
+    "phone": "+62217209262",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 81,
+    "name": "Honey Jewellery",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (229)",
+    "phone": "+62217209067",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 82,
+    "name": "Jaya Raya Watch",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (323)",
+    "phone": "+622172799508",
+    "mall_id": 1,
+    "floor": "3"
+  },
+  {
+    "id": 83,
+    "name": "Lucky Watch",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (210)",
+    "phone": "+62217209148",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 84,
+    "name": "Mulia Arloji",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (221)",
+    "phone": "+62217209233",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 85,
+    "name": "New 21 Watch",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (222-223)",
+    "phone": "+62217206090",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 86,
+    "name": "New Time Watch",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (147)",
+    "phone": "+62217209362",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 87,
+    "name": "Toko Mas Indonesia",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (122)",
+    "phone": "+62217209318",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 88,
+    "name": "Toko Mas Singgalang",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (108)",
+    "phone": "+62217209069",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 89,
+    "name": "Amazone",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "4th (434-436)",
+    "phone": "+62217209428",
+    "mall_id": 1,
+    "floor": "4"
+  },
+  {
+    "id": 90,
+    "name": "Bordir Mania",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "4th (406)",
+    "phone": "+62217209056",
+    "mall_id": 1,
+    "floor": "4"
+  },
+  {
+    "id": 91,
+    "name": "Fisik Store",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "2nd (225-227)",
+    "phone": "+62217209250",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 92,
+    "name": "Hobby Craft",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "4th (443)",
+    "phone": "+62217209277",
+    "mall_id": 1,
+    "floor": "4"
+  },
+  {
+    "id": 93,
+    "name": "Kizaru Animanga",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "2nd (218)",
+    "phone": "+62217398786",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 94,
+    "name": "Micky Mocko",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "5th (530)",
+    "phone": "+62217209430",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 95,
+    "name": "Pola Disc",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "6th (606)",
+    "phone": "+62217209359",
+    "mall_id": 1,
+    "floor": "6"
+  },
+  {
+    "id": 96,
+    "name": "Sportstation",
+    "category": "Sports",
+    "category_id": 9,
+    "unit": "1st (111-114)",
+    "phone": "+62217209071",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 97,
+    "name": "Startoys",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "2nd (207-208)",
+    "phone": "+62217209209",
+    "mall_id": 1,
+    "floor": "2"
+  },
+  {
+    "id": 98,
+    "name": "Studio Manik",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "5th (520)",
+    "phone": "+62217209079",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 99,
+    "name": "The Athlete's Foot",
+    "category": "Sports",
+    "category_id": 9,
+    "unit": "UG (33-34)",
+    "phone": "+62217209213",
+    "mall_id": 1,
+    "floor": "UG"
+  },
+  {
+    "id": 100,
+    "name": "Tomkins",
+    "category": "Sports",
+    "category_id": 9,
+    "unit": "1st (120)",
+    "phone": "+62217209379",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 101,
+    "name": "Giant Supermarket",
+    "category": "Groceries & Convenience Store",
+    "category_id": 7,
+    "unit": "LG (20)",
+    "phone": "+62217209122",
+    "mall_id": 1,
+    "floor": "LG"
+  },
+  {
+    "id": 102,
+    "name": "Gunung Agung",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "5th (531-534)",
+    "phone": "+62217209344",
+    "mall_id": 1,
+    "floor": "5"
+  },
+  {
+    "id": 103,
+    "name": "Matahari Dept. Store",
+    "category": "Departmental Stores",
+    "category_id": 12,
+    "unit": "1st (144-544)",
+    "phone": "+62217209346",
+    "mall_id": 1,
+    "floor": "1"
+  },
+  {
+    "id": 104,
+    "name": "21 Cineplex",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "6th (637)",
+    "phone": "+62217209437",
+    "mall_id": 1,
+    "floor": "6"
+  },
+  {
+    "id": 105,
+    "name": "Chune Giwa",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF",
+    "phone": "+6221 2923 6432",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 106,
+    "name": "Pepper Lunch",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+62 21 2905 2934",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 107,
+    "name": "Chopstix",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd (258B)",
+    "phone": "+6221 2900 7960",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 108,
+    "name": "Lokananta Terrace Resto",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG Main Street",
+    "phone": "+6221 2905 3033",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 109,
+    "name": "Munchies",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (16) Main Street",
+    "phone": "+6221 2905 3076",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 110,
+    "name": "Pizza Hut",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG",
+    "phone": "+6221 2905 3225",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 111,
+    "name": "Ramen 38 Sanpachi",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (101)",
+    "phone": "+6221 2905 3114",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 112,
+    "name": "Patisseries Francois",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (232)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 113,
+    "name": "Ccozi and Friends",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (103)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 114,
+    "name": "Taiwanese Beef Noodles",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 115,
+    "name": "Evening Crush",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": " UG (12A-12B)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 116,
+    "name": "Kobe Lamptei",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 117,
+    "name": "Lady Alime Tearoom",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2923 6378",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 118,
+    "name": "A & W Restaurant",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (23-25)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 119,
+    "name": "Solaria",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd (259)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 120,
+    "name": "DMG Dimsum",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 121,
+    "name": "Tony Roma's",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (01-05) Main Street",
+    "phone": "+6221 2900 7793",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 122,
+    "name": "Warung Kita",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd (247)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 123,
+    "name": "Gandaria XXI",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "2nd",
+    "phone": "+6221 2905 3218",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 124,
+    "name": "Rice Bowl",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (37-39)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 125,
+    "name": "Takigawa Resto",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (08) Main Street",
+    "phone": "+622129053260",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 126,
+    "name": "Gaudi",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (118)",
+    "phone": "+6221 2905 3118",
+    "mall_id": 10,
+    "floor": "1"
+  },
+  {
+    "id": 127,
+    "name": "Lacoste",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (73)",
+    "phone": "+6221 2905 2941",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 128,
+    "name": "The Executive",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (46-47)",
+    "phone": "+6221 2905 2927",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 129,
+    "name": "Giorgio Fedon 1919",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "LG",
+    "phone": "+6221 2900 8015",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 130,
+    "name": "Color Box",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (42)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 131,
+    "name": "Accent",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (20)",
+    "phone": "+6221 2900 7957",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 132,
+    "name": "E'VB",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (48-49)",
+    "phone": "+6221 2905 2883",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 133,
+    "name": "Lea Original Store",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (19)",
+    "phone": "+6221 2900 7912",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 134,
+    "name": "Next",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (29)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 135,
+    "name": "Bla Bla Bla",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (212)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 136,
+    "name": "Flight 001",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (78)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 137,
+    "name": "Guess",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (51)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 138,
+    "name": "Aigner",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (10)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 139,
+    "name": "Furla",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (11)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 140,
+    "name": "Izzue",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (153)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "1"
+  },
+  {
+    "id": 141,
+    "name": "Pedder Red",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (53)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 142,
+    "name": "Tommy Hilfiger",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (28)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 143,
+    "name": "Hugo Boss",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (06-07)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 144,
+    "name": "Boss Orange",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (77)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 145,
+    "name": "Xtreem 1st",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (221)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 146,
+    "name": "Bocorocco",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (55)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 147,
+    "name": "Payless",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (218)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 148,
+    "name": "Dei Reich",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (127)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "1"
+  },
+  {
+    "id": 149,
+    "name": "Dorothy Perkins",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (31-32)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 150,
+    "name": "Nautica",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (20)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 151,
+    "name": "Contempo",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (72-73)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 152,
+    "name": "Polo Ralph Lauren",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (69)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 153,
+    "name": "Ginger Snap",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 154,
+    "name": "Versace Collection",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (08)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 155,
+    "name": "Nyla",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (151)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "1"
+  },
+  {
+    "id": 156,
+    "name": "Picnic",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (120)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "1"
+  },
+  {
+    "id": 157,
+    "name": "Ocean Line",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (150B)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "1"
+  },
+  {
+    "id": 158,
+    "name": "Marie Claire",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (155)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "1"
+  },
+  {
+    "id": 159,
+    "name": "Colorbox",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (42)",
+    "phone": "+6221 2905 2947",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 160,
+    "name": "Et Cetera",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (45)",
+    "phone": "+6221 2905 2937",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 161,
+    "name": "Mochi Mochi",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (68)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 162,
+    "name": "Domino's Pizza",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (41)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 163,
+    "name": "Ya Kun Kaya Toast",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (43) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 164,
+    "name": "Nanny's Pavillon",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (09) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 165,
+    "name": "Riung Sunda",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (07) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 166,
+    "name": "Kerri Yakiboy",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd (257)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 167,
+    "name": "Baskin Robbins",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (01)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 168,
+    "name": "Fish & Co",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (S36) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 169,
+    "name": "Chopstix",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 170,
+    "name": "Churreria",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (33B) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 171,
+    "name": "Mix n Fix",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (09A)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 172,
+    "name": "The Taste",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (26-27) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 173,
+    "name": "Fantasy Lolly",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (07)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 174,
+    "name": "Shihlin",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (07A)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 175,
+    "name": "The Body Face & Lab",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "2nd (25)",
+    "phone": "+6221 2905 3140",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 176,
+    "name": "Tina Andrean Bridal",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "GF (37)",
+    "phone": "+6221 2900 8023",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 177,
+    "name": "Honeypot Wax Boutique",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "1st (167)",
+    "phone": "+6221 2905 3006",
+    "mall_id": 10,
+    "floor": "1"
+  },
+  {
+    "id": 178,
+    "name": "Jaco Tv Shopping",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "LG (60)",
+    "phone": "+6221 2900 7837",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 179,
+    "name": "Crocs",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (62-63)",
+    "phone": "+6221 2900 7928",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 180,
+    "name": "Oh La La Cafe",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (33D) Main Street",
+    "phone": "+6221 2905 3119",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 181,
+    "name": "Golden Egg Tart Bakery",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd (258A)",
+    "phone": "+6221 2905 3263",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 182,
+    "name": "Alleira",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (66)",
+    "phone": "+6221 2905 3128",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 183,
+    "name": "Pigeon ",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2nd (226D)",
+    "phone": "+6221 2905 3156",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 184,
+    "name": "Pazia Shop ",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "1st (183-185)",
+    "phone": "+6221 2905 3270",
+    "mall_id": 10,
+    "floor": "1"
+  },
+  {
+    "id": 185,
+    "name": "Innovation Store",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "LG (11-12)",
+    "phone": "+6221 2900 7910",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 186,
+    "name": "Wacoal",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (06B)",
+    "phone": "+6221 2905 3274",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 187,
+    "name": "DC Super Heroes",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (232)",
+    "phone": "+6221 2900 7917",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 188,
+    "name": "Mooi",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (22)",
+    "phone": "+6221 2900 8024",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 189,
+    "name": "Charles & Keith",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (50-52)",
+    "phone": "+6221 2905 3334",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 190,
+    "name": "Body & Soul",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "UG (43)",
+    "phone": "+6221 2905 2877",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 191,
+    "name": "Lasenza",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "GF (26)",
+    "phone": "+6221 2900 7851",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 192,
+    "name": "Kopitiam",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (63)",
+    "phone": "+6221 2905 3109",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 193,
+    "name": "The Coffee Bean",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (36) Main Street",
+    "phone": "+6221 2900 8022",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 194,
+    "name": "Tator Cafe",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF",
+    "phone": "+6221 2905 2987",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 195,
+    "name": "Liberica Coffee",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG",
+    "phone": "+6221 2900 7986",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 196,
+    "name": "Haagen Dazs",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (12) Main Street",
+    "phone": "+6221 2900 7932",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 197,
+    "name": "Mrs. Fields",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 3162",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 198,
+    "name": "Beerdy Virtual Golf & Bar",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (17-18) Main Street",
+    "phone": "+6221 2900 7808",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 199,
+    "name": "Roppan",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (10) Main Street",
+    "phone": "+6221 2900 7942",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 200,
+    "name": "Starbucks",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF Main Street",
+    "phone": "+6221 2905 2921",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 201,
+    "name": "Kaffein",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (33C) Main Street",
+    "phone": "+6221 2900 8071",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 202,
+    "name": "Mr. Baso",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (31-32)",
+    "phone": "+6221 2905 3329",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 203,
+    "name": "Inconigto",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG",
+    "phone": "+6221 2905 3068",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 204,
+    "name": "Warung Pojok",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (26)",
+    "phone": "+6221 2900 7952",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 205,
+    "name": "Radja Ketjil",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (02-03) Main Street",
+    "phone": "+6221 2905 3150",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 206,
+    "name": "Gramedia",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "1st (102)",
+    "phone": "+6221 2905 3110",
+    "mall_id": 10,
+    "floor": "1"
+  },
+  {
+    "id": 207,
+    "name": "Celebrity Fitness",
+    "category": "Sports",
+    "category_id": 9,
+    "unit": "2nd (216)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 208,
+    "name": "Lotte mart",
+    "category": "Groceries & Convenience Store",
+    "category_id": 7,
+    "unit": "LG (03)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 209,
+    "name": "Metro Department Store",
+    "category": "Departmental Stores",
+    "category_id": 12,
+    "unit": "LG, G, UG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 210,
+    "name": "Birds&Bees",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2nd (217)",
+    "phone": "+6221 2905 3207",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 211,
+    "name": "Chloe's Closet",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2nd (225)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 212,
+    "name": "Coconut Baby Shop",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2nd (230)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 213,
+    "name": "Early Learning Centre",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "UG (37)",
+    "phone": "+62 21 29 05 31 93",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 214,
+    "name": "I'm Just Kidding Mommy",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2nd (205A)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 215,
+    "name": "Kiddy Cuts",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2nd (226)",
+    "phone": "+6221 2905 3212",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 216,
+    "name": "Kidz Station",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "2nd (226)",
+    "phone": "+6221 2900 7950",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 217,
+    "name": "Mothercare",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "UG (38)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 218,
+    "name": "Puku",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2nd (225A)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 219,
+    "name": "Rockstar Gym",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "1st (103)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "1"
+  },
+  {
+    "id": 220,
+    "name": "Stride Ride",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "2nd (231)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 221,
+    "name": "Superkid Collection",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "2nd (226A)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 222,
+    "name": "Teddy House",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "2nd (206)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 223,
+    "name": "Toys Kingdom",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "2nd (27)",
+    "phone": "+6221 2905 3354",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 224,
+    "name": "D'Crepez",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 225,
+    "name": "Golden Century Kopitiam",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (05-06)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 226,
+    "name": "Snackshop",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd (27)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 227,
+    "name": "Pizza e Birra",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (33) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 228,
+    "name": "Amadeus Coffee",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (08) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 229,
+    "name": "Shiok",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd (247B)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 230,
+    "name": "I-Ta Suki",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (37) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 231,
+    "name": "Jun Njan",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (20-21) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 232,
+    "name": "Touse Les Jours",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (05)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 233,
+    "name": "Amaroossa",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (102)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 234,
+    "name": "Iga Iga",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 235,
+    "name": "Nasi Langgi",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 236,
+    "name": "Kyochon",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG",
+    "phone": "+6221 2923 6448",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 237,
+    "name": "Sour Sally",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 238,
+    "name": "The Freezy Fabolus",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 239,
+    "name": "Shitako Takoyaki",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 240,
+    "name": "Nasi Goreng Babat",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 241,
+    "name": "Bakmi Kepiting Pontianak",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 242,
+    "name": "Mr Dup Bap",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF",
+    "phone": "+6221 2905 3311",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 243,
+    "name": "Robala Jinya",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (07) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 244,
+    "name": "Dot Bravd",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (16) Main Street",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 245,
+    "name": "Jolly Time Pop Corn",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 246,
+    "name": "D'Beanz",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 247,
+    "name": "Simply",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 248,
+    "name": "Dynamic Bakery",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 249,
+    "name": "Chippy Happy Food",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 250,
+    "name": "Hong Tang",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG",
+    "phone": "+6221 2923 6770",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 251,
+    "name": "Soto Kudus Sederhana",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 252,
+    "name": "Dakasi",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 253,
+    "name": "Domino's Pizza ",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (41)",
+    "phone": "+6221 2905 3136",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 254,
+    "name": "White Hunter",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (3)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 255,
+    "name": "Crystal Jade Restaurant",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (38)",
+    "phone": "+6221 2900 7895",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 256,
+    "name": "Okitobox",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 257,
+    "name": "Twelve Cup Cakes",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (96)",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 258,
+    "name": "Serambi Botani",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (83)",
+    "phone": "+6221 2905 3289",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 259,
+    "name": "La Hoya Comida Mexiana",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (131-132) Main Street",
+    "phone": "+6221 2923 6458",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 260,
+    "name": "Sushi Ya",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (07-08)",
+    "phone": "+6221 2905 3195",
+    "mall_id": 10,
+    "floor": "LG"
+  },
+  {
+    "id": 261,
+    "name": "Thai Alley",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF",
+    "phone": "+6221 2905 2888",
+    "mall_id": 10,
+    "floor": "GF"
+  },
+  {
+    "id": 262,
+    "name": "First Love Patisseries",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG",
+    "phone": "+6221 2923 6373",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 263,
+    "name": "Cal Roll factory",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (11) Main Street",
+    "phone": "+62212 905 3117",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 264,
+    "name": "Bubur Cianjur",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 3138",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 265,
+    "name": "Eat & Eat Food Market",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 3138",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 266,
+    "name": "Pho 24 Vietnamese Pho Noodle",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "UG (32)",
+    "phone": "+6221 2905 3069",
+    "mall_id": 10,
+    "floor": "UG"
+  },
+  {
+    "id": 267,
+    "name": "Siomay Wibisana",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd",
+    "phone": "+6221 2905 3138",
+    "mall_id": 10,
+    "floor": "2"
+  },
+  {
+    "id": 268,
+    "name": "Indra Loka",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#3",
+    "phone": "+6221 5793 5155",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 269,
+    "name": "The Sandals",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#LG-D1-01",
+    "phone": "+6221 9350 8922",
+    "mall_id": 5,
+    "floor": "LG"
+  },
+  {
+    "id": 270,
+    "name": "Up 2 Date",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-A9-02",
+    "phone": "+6221 5793 4407",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 271,
+    "name": "Professional",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-B2",
+    "phone": "+62877 7551 6551",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 272,
+    "name": "Beloved",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#GF-D2-02,03",
+    "phone": "+6221 5793 3854",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 273,
+    "name": "Art Of Kebaya",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-B2-06",
+    "phone": "+62858 1045 2170",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 274,
+    "name": "Pernak Pernikku",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-AB-01,02",
+    "phone": "+6221 5793 4670",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 275,
+    "name": "Serilon Shoe",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-B2-02",
+    "phone": "+6221 5793 4709",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 276,
+    "name": "Zenitha Gallery",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-B2-28",
+    "phone": "+6221 4575 3535",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 277,
+    "name": "Paris Studio",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-Sarwi-08",
+    "phone": "+62858 8343 5565",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 278,
+    "name": "Senawangi 2",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#GF-C2-02",
+    "phone": "+6221 5793 4235",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 279,
+    "name": "Metric Bordir",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#LG-A16-03",
+    "phone": "+6221 9664 9499",
+    "mall_id": 5,
+    "floor": "LG"
+  },
+  {
+    "id": 280,
+    "name": "Ratna Jaya",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-B4-01,02",
+    "phone": "+6221 7131 8458",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 281,
+    "name": "Ratna Jaya 3",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#4-D10-01",
+    "phone": "+6221 7102 5155",
+    "mall_id": 5,
+    "floor": "4"
+  },
+  {
+    "id": 282,
+    "name": "Batik Kencana Ungu",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#GF-C3-05",
+    "phone": "+6221 5793 4244",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 283,
+    "name": "Ocha Baby Shop",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": " #1-B4-05,06",
+    "phone": "+6221 5793 4604",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 284,
+    "name": "Magnolia Butik",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-D9-01",
+    "phone": "+6221 5793 5058",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 285,
+    "name": "Bloob Toko",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-D1-07",
+    "phone": "+6221 5793 5029",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 286,
+    "name": "Pernak Pernikku",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-A6-01,02",
+    "phone": "+6221 9925 9944",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 287,
+    "name": "Gorses",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#UG-C-05",
+    "phone": "+6221 5793 4123",
+    "mall_id": 5,
+    "floor": "UG"
+  },
+  {
+    "id": 288,
+    "name": "Rumah Batik",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-A10-01",
+    "phone": "+6221 5793 4687",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 289,
+    "name": "7 Ocean Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#LG",
+    "phone": "+6221 5793 8023",
+    "mall_id": 5,
+    "floor": "LG"
+  },
+  {
+    "id": 290,
+    "name": "Anita Theresa",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#LG-E2-10",
+    "phone": "+6221 9918 9020",
+    "mall_id": 5,
+    "floor": "LG"
+  },
+  {
+    "id": 291,
+    "name": "Favor D`Passion Of Kebaya",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-A1-14,15",
+    "phone": "+6221 5793 4364",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 292,
+    "name": "Brahouse",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#UG-D3",
+    "phone": "+6221 5793 3960",
+    "mall_id": 5,
+    "floor": "UG"
+  },
+  {
+    "id": 293,
+    "name": "My Size",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#GF-A1-01A",
+    "phone": "+6221 5793 4202",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 294,
+    "name": "Utsukushii",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-B14-03A",
+    "phone": "+6221 5793 5425",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 295,
+    "name": "Tamita Mode",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-A1-07,09",
+    "phone": "+6221 5793 4357",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 296,
+    "name": "Kirin Promotion",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#LG-TR-89",
+    "phone": "+6221 5793 5311",
+    "mall_id": 5,
+    "floor": "LG"
+  },
+  {
+    "id": 297,
+    "name": "Glamour Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-B1-03",
+    "phone": "+6221 5793 4709",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 298,
+    "name": "Angel Baby Care",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "#2-B2-05",
+    "phone": "+6221 5793 4710",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 299,
+    "name": "4U Fashion",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#4-B8-03",
+    "phone": "+6221 5793 5325",
+    "mall_id": 5,
+    "floor": "4"
+  },
+  {
+    "id": 300,
+    "name": "Red Queen",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-B6-02",
+    "phone": "+6221 5793 4736",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 301,
+    "name": "Manzone",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#4-A8-02,03",
+    "phone": "+6221 5793 5286",
+    "mall_id": 5,
+    "floor": "4"
+  },
+  {
+    "id": 302,
+    "name": "M Fiu Collection",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-C5-01",
+    "phone": "+6221 5793 4545",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 303,
+    "name": "Rose Collection",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2nd-B8-01",
+    "phone": "+6221 5793 4752",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 304,
+    "name": "Metro Accesorries",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#3-B10-02",
+    "phone": "+6221 5793 5159",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 305,
+    "name": "Dlougo Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-C1-01",
+    "phone": "+6221 5793 4526",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 306,
+    "name": "Bianca Collection",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-C8-03",
+    "phone": "+6221 5793 4561",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 307,
+    "name": "H2O Quick Fashion",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#GF-F7-01,02",
+    "phone": "+6221 5793 4330",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 308,
+    "name": "House Of Nera",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#GF-D1-07",
+    "phone": "+6221 5793 4267",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 309,
+    "name": "Nsoft Shoes",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-D3-01",
+    "phone": "+6221 5793 4605",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 310,
+    "name": "Banana Collection",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#UG-105",
+    "phone": "+6221 5793 7739",
+    "mall_id": 5,
+    "floor": "UG"
+  },
+  {
+    "id": 311,
+    "name": "Harajuku Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-B9-05",
+    "phone": "+6221 5793 4763",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 312,
+    "name": "Mei Sien Collection",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-B8-05,06",
+    "phone": "+6221 5793 4755",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 313,
+    "name": "Siska Collection",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-A7-01",
+    "phone": "+6221 5793 5482",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 314,
+    "name": "Calede",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-C5-03A",
+    "phone": "+6221 5793 4548",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 315,
+    "name": "Nayara Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#1-B3-10",
+    "phone": "+6221 5793 4438",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 316,
+    "name": "Happy Bar",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#UG-C-05",
+    "phone": "+6221 5793 4126",
+    "mall_id": 5,
+    "floor": "UG"
+  },
+  {
+    "id": 317,
+    "name": "Chikas Fashion Sandalas",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#3-A4-03A",
+    "phone": "+6221 5793 5082",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 318,
+    "name": "Bunga Collection",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#4-D5-03A",
+    "phone": "+6221 5793 5389",
+    "mall_id": 5,
+    "floor": "4"
+  },
+  {
+    "id": 319,
+    "name": "Buz Bee Baby Shop",
+    "category": "Children & Maternity",
+    "category_id": 3,
+    "unit": "#GF-C2-02,09,10",
+    "phone": "+6221 5793 4110",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 320,
+    "name": "Mika Accesorries",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#LG-E1-02",
+    "phone": "+6221 5793 4296",
+    "mall_id": 5,
+    "floor": "LG"
+  },
+  {
+    "id": 321,
+    "name": "Nakoya Fashionable Bags",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "#2-B9-07,09",
+    "phone": "+6221 5793 5765",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 322,
+    "name": "Alika Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (Blok C12 Unit 3A)",
+    "phone": "+6221 5793 7939",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 323,
+    "name": "Hoec Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (Blok C9 Unit 8)",
+    "phone": "+6221 5793 5014",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 324,
+    "name": "Cutie Shop",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (Blok B No. 10)",
+    "phone": "+6221 5793 4770",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 325,
+    "name": "Zirca Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "4th (Blok D2 No. 3)",
+    "phone": "+6221 5795 2015",
+    "mall_id": 5,
+    "floor": "4"
+  },
+  {
+    "id": 326,
+    "name": "Elegan Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (Blok B1 No. 24)",
+    "phone": "+6221 5793 8208",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 327,
+    "name": "V Bes Boutique",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (Blok B7 Unit 1)",
+    "phone": "+6221 5793 4743",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 328,
+    "name": "Burdo",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (Blok D10 No. 2)",
+    "phone": "+6221 5793 4632",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 329,
+    "name": "Jade Collection",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "LG (Blok D6 Unit 5)",
+    "phone": "+6221 5793 4293",
+    "mall_id": 5,
+    "floor": "LG"
+  },
+  {
+    "id": 330,
+    "name": "Getuk Singkong Chiquita Pastry",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "3rd (Blok C9 Unit 3&5)",
+    "phone": "+6221 5795 3215",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 331,
+    "name": "Top Bread",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "2nd (Blok D3 Unit 6)",
+    "phone": "+6221 5793 5051",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 332,
+    "name": "2nd Bite Bakery",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "GF (76 - 78)",
+    "phone": "+622 1724 5531",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 333,
+    "name": "Holland Bakery",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#GF",
+    "phone": "+6221 5793 3815",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 334,
+    "name": "J & C Cookies",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#UG",
+    "phone": "+6221 9794 3399",
+    "mall_id": 5,
+    "floor": "UG"
+  },
+  {
+    "id": 335,
+    "name": "Papabunz",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#LG",
+    "phone": "+6221 5793 8031",
+    "mall_id": 5,
+    "floor": "LG"
+  },
+  {
+    "id": 336,
+    "name": "Pizza Hut",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#GF",
+    "phone": "+6221 5793 8008",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 337,
+    "name": "Bakmi Gang Kelinci",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#4-BS-06",
+    "phone": "+6221 5793 8280",
+    "mall_id": 5,
+    "floor": "4"
+  },
+  {
+    "id": 338,
+    "name": "A & W Restaurants",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#GF",
+    "phone": "+6221 5793 3969",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 339,
+    "name": "D'Cost",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#5",
+    "phone": "+6221 5793 7888",
+    "mall_id": 5,
+    "floor": "5"
+  },
+  {
+    "id": 340,
+    "name": "D' Café",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "#4-50",
+    "phone": "+6221 5793 5521",
+    "mall_id": 5,
+    "floor": "4"
+  },
+  {
+    "id": 341,
+    "name": "Kem's Cellular ITC Kuningan",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "#3-C8-03,08",
+    "phone": "+6221 7156 6868",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 342,
+    "name": "Metroshop (Nexian Outlet)",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "#3-A9-07",
+    "phone": "+6221 5793 8318",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 343,
+    "name": "Lexus Sales & Service Center",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Blok. B13 No. 8-9",
+    "phone": "+6221 5793 7881",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 344,
+    "name": "Telefonia ( VirtuV Dealer )",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor No.45",
+    "phone": "+6221 5793 5510",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 345,
+    "name": "Number One Cell ( VirtuV Dealer )",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor No.21 & 32",
+    "phone": "+6221 5793 5520",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 346,
+    "name": "Blackberry Center",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "4th Floor Blok F No. 2",
+    "phone": "+6221 5793 5700",
+    "mall_id": 5,
+    "floor": "4"
+  },
+  {
+    "id": 347,
+    "name": "Alexist Cell",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Blok B14 No. 18",
+    "phone": "+6221 9707 2612",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 348,
+    "name": "Top Selular 2",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "Lantai 3, Blok B1 No.1C",
+    "phone": "+6221 5018 2828",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 349,
+    "name": "Dustin Computer",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3th Floor Blok C1, No. 6",
+    "phone": "+6221 5793 5189",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 350,
+    "name": "D - Ponsel",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Blok B7 No. 7",
+    "phone": "+6221 5793 5546",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 351,
+    "name": "Khatulistiwa Cellular",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Blok D-4",
+    "phone": "+6221 5793 5245",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 352,
+    "name": "Pegasus Cell",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Blok D3 No.3",
+    "phone": "+6221 5793 5239",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 353,
+    "name": "Central Telecommunication Cellular",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor No. 27",
+    "phone": "+6221 5793 5583",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 354,
+    "name": "Wahana Selular",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Blok B-4 No. 6",
+    "phone": "+6221 5793 5119",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 355,
+    "name": "Bryant Berry",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "Lantai 3 Blok B1 No.1b",
+    "phone": "+6221 5793 7834",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 356,
+    "name": "Ikhsan Duo",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Blok B7 No. 10",
+    "phone": "+6221 5793 4947",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 357,
+    "name": "Jaya Phone",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Blok C-5 Unit 1",
+    "phone": "+6221 5793 5199",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 358,
+    "name": "ALIA CELL",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "Lantai 3 Blok A7",
+    "phone": "+6221 3060 0555",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 359,
+    "name": "Mobile Teleshop",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Blok A10 No.5",
+    "phone": "+6221 5793 5102",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 360,
+    "name": "Murbay Cell",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Jembatan 1 No. 15",
+    "phone": "+6221 3335 6400",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 361,
+    "name": "Apartemen Park",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "Blok B-12 Unit 7",
+    "phone": "+6221 5793 5577",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 362,
+    "name": "ASA Comp (Service Laptop Jakarta)",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Blok A2 No. 3A",
+    "phone": "+6221 5793 4847",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 363,
+    "name": "Qiu Solutions",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor Blok B1 No. 1A",
+    "phone": "+6221 5793 5530",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 364,
+    "name": "Mobile Comm",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd Floor No 74",
+    "phone": "+6221 5793 4808",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 365,
+    "name": "Pro-X Technology",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "Lantai 4 Blok B6 No. 5-6",
+    "phone": "+6221 7070 9923",
+    "mall_id": 5,
+    "floor": "4"
+  },
+  {
+    "id": 366,
+    "name": "Rikom",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (Blok C8)",
+    "phone": "+6221 5793 5210",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 367,
+    "name": "City Cellular",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (Blok D2 No. 1)",
+    "phone": "+6221 5793 5229",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 368,
+    "name": "Delta Cellular",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (Blok C9 No. 7)",
+    "phone": "+6221 5793 5217",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 369,
+    "name": "Alfa Phone",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (Blok B13 No. 5)",
+    "phone": "+6221 5793 5173",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 370,
+    "name": "Milano Duo",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (Blok B7 No. 10)",
+    "phone": "+6221 5793 4947",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 371,
+    "name": "Visitell",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (Blok B6 No. 1)",
+    "phone": "+6221 5793 5123",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 372,
+    "name": "Exa Phone",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (Blok D9 No. 1)",
+    "phone": "+6221 5793 5252",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 373,
+    "name": "Blitz Comm 1",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (Blok C8 No. 2)",
+    "phone": "+6221 5793 4086",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 374,
+    "name": "Terminal Handphone",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (Blok B10 No. 6)",
+    "phone": "+6221 5793 5163",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 375,
+    "name": "November Shop",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (Blok B7 No. 2)",
+    "phone": "+6221 5793 8078",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 376,
+    "name": "Sky Cellular",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (Blok B9 No. 1)",
+    "phone": "+6221 5793 5149",
+    "mall_id": 5,
+    "floor": "3"
+  },
+  {
+    "id": 377,
+    "name": "Kuningan Optik",
+    "category": "Opticals",
+    "category_id": 11,
+    "unit": "Lantai 2",
+    "phone": "+6221 5795 0968",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 378,
+    "name": "Mention",
+    "category": "Opticals",
+    "category_id": 11,
+    "unit": "Ground Floor Blok D1 No. 9",
+    "phone": "+6221 5793 3851",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 379,
+    "name": "Celebes Optic",
+    "category": "Opticals",
+    "category_id": 11,
+    "unit": "GF (Blok E2 No. 2-3A)",
+    "phone": "+6221 5793 4457",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 380,
+    "name": "Cemani Optic",
+    "category": "Opticals",
+    "category_id": 11,
+    "unit": "Lantai Dasar (Blok D5 No. 1)",
+    "phone": "+6221 5793 4280",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 381,
+    "name": "Bandung Optic",
+    "category": "Opticals",
+    "category_id": 11,
+    "unit": "G (Blok B3 No. 5-6)",
+    "phone": "+6221 5793 3927",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 382,
+    "name": "Optic Casablanca",
+    "category": "Opticals",
+    "category_id": 11,
+    "unit": "Lantai Semi Dasar (Blok A12 No. 1)",
+    "phone": "+6221 5793 8338",
+    "mall_id": 5,
+    "floor": "UG"
+  },
+  {
+    "id": 383,
+    "name": "Saudara Optical",
+    "category": "Opticals",
+    "category_id": 11,
+    "unit": "1st (Blok B10 No. 3)",
+    "phone": "+6221 5793 4492",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 384,
+    "name": "Intenasional Optik",
+    "category": "Opticals",
+    "category_id": 11,
+    "unit": "Lantai Dasar (Blok B4 No. 3A)",
+    "phone": "+6221 5793 4916",
+    "mall_id": 5,
+    "floor": "GF"
+  },
+  {
+    "id": 385,
+    "name": "Super Saver Beauty Clinic",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "LG (Blok F1)",
+    "phone": "+6221 5793 3971",
+    "mall_id": 5,
+    "floor": "LG"
+  },
+  {
+    "id": 386,
+    "name": "Platinum Arloji",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (Blok B12 No. 3 & 8)",
+    "phone": "+6221 5793 3888",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 387,
+    "name": "On Time",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (Blok A4 No. 6)",
+    "phone": "+6221 5793 4382",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 388,
+    "name": "Get Watch",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (Blok D10 No. 2)",
+    "phone": "+6221 5793 5067",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 389,
+    "name": "Swiss Watch",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (Blok B9 No. 10)",
+    "phone": "+6221 5793 4489",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 390,
+    "name": "Indah Arloji",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (Blok B6 No. 1)",
+    "phone": "+6221 5793 4452",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 391,
+    "name": "Bank Central Asia",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "Lt.1, JL Prof. Dr. Satrio, Blok F No. 1-2",
+    "phone": "+6221 5793 5501",
+    "mall_id": 5,
+    "floor": "1"
+  },
+  {
+    "id": 392,
+    "name": "JNE Restu Agung",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "2nd Floor Blok C 13 No. 9",
+    "phone": "+6221 5793 7874",
+    "mall_id": 5,
+    "floor": "2"
+  },
+  {
+    "id": 393,
+    "name": "Sandifalas. PT",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": " Blok A-9, Lantai 4",
+    "phone": "+6221 5793 5334",
+    "mall_id": 5,
+    "floor": "4"
+  },
+  {
+    "id": 394,
+    "name": "Gracia Pet Shop",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "4th Floor",
+    "phone": "+6221 5793 4796",
+    "mall_id": 5,
+    "floor": "4"
+  },
+  {
+    "id": 395,
+    "name": "Carrefour",
+    "category": "Groceries & Convenience Store",
+    "category_id": 7,
+    "unit": "Basement I",
+    "phone": "+6221 5795 0968",
+    "mall_id": 5,
+    "floor": "LG"
+  },
+  {
+    "id": 396,
+    "name": "Abadi Textile",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (62)",
+    "phone": "+6221 5797 3118",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 397,
+    "name": "Alta Moda",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (05, 06, 07, 09, 09A)",
+    "phone": "+6221 5140 2787",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 398,
+    "name": "Batik Keris",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (41)",
+    "phone": "+6221 5797 3187",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 399,
+    "name": "Biyan",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (10)",
+    "phone": "+6221 5797 3618",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 400,
+    "name": "Canali",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (26)",
+    "phone": "+6221 5797 3806",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 401,
+    "name": "Catwalk",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (70)",
+    "phone": "+6221 5797 3530",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 402,
+    "name": "Charles & Keith",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (11)",
+    "phone": "+6221 5140 0466",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 403,
+    "name": "Crocs",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (70-71)",
+    "phone": "+6221 5797 3108",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 404,
+    "name": "Daine Von Furstenberg",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (21)",
+    "phone": "+6221 5140 0620",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 405,
+    "name": "Esprit",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (41)",
+    "phone": "+6221 5797 3185",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 406,
+    "name": "G-Star Raw",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (28, 31A, 31B, 32A)",
+    "phone": "+6221 5797 3568",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 407,
+    "name": "Guess",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (28, 31, 32)",
+    "phone": "+6221 5140 0514",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 408,
+    "name": "Hermes",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (88)",
+    "phone": "+6221 5140 2798",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 409,
+    "name": "Hugo Boss",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (22)",
+    "phone": "+6221 5140 0587",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 410,
+    "name": "Invio",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (30)",
+    "phone": "+6221 5797 3080",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 411,
+    "name": "Iroo",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (67, 68, 69)",
+    "phone": "+6221 5797 3098",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 412,
+    "name": "Louis Vuitton",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (67-70)",
+    "phone": "+6221 5140 0575",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 413,
+    "name": "Mango",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (48-49)",
+    "phone": "+6221 5797 3520",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 414,
+    "name": "Metro",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (99)",
+    "phone": "+6221 515 0333",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 415,
+    "name": "Nike",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (30, 30B, 36A, 37)",
+    "phone": "+6221 5797 3260",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 416,
+    "name": "Parang Kencana",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (22)",
+    "phone": "+6221 5797 3227",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 417,
+    "name": "Pedro",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (67)",
+    "phone": "+6221 5140 0477",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 418,
+    "name": "Porsche Design",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (29, 35)",
+    "phone": "+6221 5140 2717",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 419,
+    "name": "Rococo",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (12)",
+    "phone": "+6221 5140 2765",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 420,
+    "name": "S.T. Dupont",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (72)",
+    "phone": "+6221 5797 3234",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 421,
+    "name": "T.M. Lewin",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (29, 35)",
+    "phone": "+6221 5140 2787",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 422,
+    "name": "Tonino Lamborghini",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (36A)",
+    "phone": "+6221 5797 3499",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 423,
+    "name": "Amante",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (27)",
+    "phone": "+6221 5797 3810",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 424,
+    "name": "Bell & Ross",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (88)",
+    "phone": "+6221 5140 2711",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 425,
+    "name": "Bvlgari",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (35A, 35B)",
+    "phone": "+6221 5797 3850",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 426,
+    "name": "Crown Jewelery",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (69)",
+    "phone": "+6221 5797 3737",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 427,
+    "name": "Gordon Max",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "4th (30)",
+    "phone": "+6221 5797 3223",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 428,
+    "name": "Jewels Of Eden",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (30B)",
+    "phone": "+6221 5797 3217",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 429,
+    "name": "La Floret",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (27A)",
+    "phone": "+6221 5797 3231",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 430,
+    "name": "Lily Kasoem Atelier",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (47)",
+    "phone": "+6221 5140 2725",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 431,
+    "name": "Luminox",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (72)",
+    "phone": "+6221 5797 3796",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 432,
+    "name": "Moda Castello",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "2nd (20)",
+    "phone": "+6221 5797 3261",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 433,
+    "name": "Montblanc",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (27, 28)",
+    "phone": "+6221 5140 4261",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 434,
+    "name": "Optik Melawai",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (47)",
+    "phone": "+6221 5140 2757",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 435,
+    "name": "Optik Seis",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "1st (43)",
+    "phone": "+6221 5797 3117",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 436,
+    "name": "Tag Heur",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (16)",
+    "phone": "+6221 5797 3725",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 437,
+    "name": "The Time Place",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (12A, 12B)",
+    "phone": "+6221 5140 2776",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 438,
+    "name": "Tiffany & Co.",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "G (33)",
+    "phone": "+6221 5140 2769",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 439,
+    "name": "U-Boat",
+    "category": "Fashion & Accessories",
+    "category_id": 4,
+    "unit": "3rd (28A)",
+    "phone": "+6221 5797 3636",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 440,
+    "name": "Android Nation",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (20)",
+    "phone": "+6221 5797 3132",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 441,
+    "name": "Oke Shop",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "B1 (23)",
+    "phone": "+6221 5140 2720",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 442,
+    "name": "Samsung",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "4th (10)",
+    "phone": "+6221 5797 3171",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 443,
+    "name": "Telesindo Shop",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "B1 (21C)",
+    "phone": "+6221 5797 3189",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 444,
+    "name": "Toto Kitchen",
+    "category": "Furnishing & Housewares",
+    "category_id": 14,
+    "unit": "3rd (41A)",
+    "phone": "+6221 5797 3072",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 445,
+    "name": "Infinite",
+    "category": "Electronics & Communications",
+    "category_id": 6,
+    "unit": "3rd (31)",
+    "phone": "+6221 5797 3648",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 446,
+    "name": "Aksara",
+    "category": "Books, Stationeries, Arts & Crafts",
+    "category_id": 2,
+    "unit": "4th (06A)",
+    "phone": "+6221 5797 3740",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 447,
+    "name": "Dwidaya Tour",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "B1 (24)",
+    "phone": "+6221 5140 0589",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 448,
+    "name": "Panorama Tours",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "B1 (28B)",
+    "phone": "+6221 5140 0455",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 449,
+    "name": "Unique World Collection",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "3rd (26)",
+    "phone": "+6221 5140 0607",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 450,
+    "name": "Century Healthcare",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "B1 (03)",
+    "phone": "+6221 5797 3125",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 451,
+    "name": "Chiropractic Indonesia",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "B1 (38-39)",
+    "phone": "+6221 5797 3633",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 452,
+    "name": "Clarins Skin Spa",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "1st (19-20)",
+    "phone": "+6221 5797 3708",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 453,
+    "name": "Clinic, The",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "B1 (15)",
+    "phone": "+6221 5797 3410",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 454,
+    "name": "Cocola Waxing",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "B1 (05)",
+    "phone": "+6221 5797 3181",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 455,
+    "name": "Erha Apothecary",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "2nd (40)",
+    "phone": "+6221 5140 0451",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 456,
+    "name": "Fitness First",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "5th (15)",
+    "phone": "+6221 5140 0525",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 457,
+    "name": "GNC Live Well",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "LG (12A)",
+    "phone": "+6221 5797 3556",
+    "mall_id": 4,
+    "floor": "LG"
+  },
+  {
+    "id": 458,
+    "name": "Gorjes",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "B1 (11)",
+    "phone": "+6221 5797 3145",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 459,
+    "name": "Kay Collection",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "B1 (28C)",
+    "phone": "+6221 5797 3827",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 460,
+    "name": "Kleo Beauty Studio",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "2nd (18)",
+    "phone": "+6221 5140 0561",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 461,
+    "name": "Le Salon",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "1st (11)",
+    "phone": "+6221 5797 3883",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 462,
+    "name": "Meiso By Kenko",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "B1 (28)",
+    "phone": "+6221 5140 3050",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 463,
+    "name": "Paxi",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "B1 (10)",
+    "phone": "+6221 5140 2999",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 464,
+    "name": "Pink Parlour",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "G (16)",
+    "phone": "+6221 5140 6277",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 465,
+    "name": "Senopati Skin Center",
+    "category": "Health, Beauty & Wellness",
+    "category_id": 8,
+    "unit": "2nd (16)",
+    "phone": "+6221 5797 3830",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 466,
+    "name": "BMW Motorrad Studio",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "2nd (26-27)",
+    "phone": "+6221 5797 3240",
+    "mall_id": 4,
+    "floor": "2"
+  },
+  {
+    "id": 467,
+    "name": "McLaren",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "G (38)",
+    "phone": "+6221 515 0077",
+    "mall_id": 4,
+    "floor": "G"
+  },
+  {
+    "id": 468,
+    "name": "Amazing Place",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "6th (01-02)",
+    "phone": "+6221 5140 0597",
+    "mall_id": 4,
+    "floor": "6"
+  },
+  {
+    "id": 469,
+    "name": "D'Storm",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "B1 (45)",
+    "phone": "+6221 5797 3380",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 470,
+    "name": "Blitzmegaplex",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "6th (01)",
+    "phone": "+6221 5140 0800",
+    "mall_id": 4,
+    "floor": "6"
+  },
+  {
+    "id": 471,
+    "name": "Societie",
+    "category": "Leisure, Games & Entertainment",
+    "category_id": 13,
+    "unit": "3rd (45)",
+    "phone": "+6221 5140 2737",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 472,
+    "name": "Yamaha Music Square",
+    "category": "Gift, Hobbies & Toys",
+    "category_id": 10,
+    "unit": "3rd (06, 06A, 08, 09, 10)",
+    "phone": "+6221 5797 3580",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 473,
+    "name": "Kem Chicks",
+    "category": "Groceries & Convenience Store",
+    "category_id": 7,
+    "unit": "LG (99)",
+    "phone": "+6221 5140 0440",
+    "mall_id": 4,
+    "floor": "LG"
+  },
+  {
+    "id": 474,
+    "name": "Dapoer Podjok",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (59-60)",
+    "phone": "+6221 5140 2492",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 475,
+    "name": "Dapur Sunda",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "B1 (17-18)",
+    "phone": "+6221 5797 3040",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 476,
+    "name": "Din Tai Fung",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (52)",
+    "phone": "+6221 5797 3151",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 477,
+    "name": "Gyu Kaku",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G (51C)",
+    "phone": "+6221 5140 0617",
+    "mall_id": 4,
+    "floor": "G"
+  },
+  {
+    "id": 478,
+    "name": "Imae Shabu-Shabu",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (48)",
+    "phone": "+6221 5797 3177",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 479,
+    "name": "Kafe Betawi",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (43)",
+    "phone": "+6221 5140 2709",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 480,
+    "name": "Kiyadon",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (41-42)",
+    "phone": "+6221 5140 0616",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 481,
+    "name": "Kyochon",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (57, 69)",
+    "phone": "+6221 5797 3183",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 482,
+    "name": "Ootoya",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (08-09)",
+    "phone": "+6221 5797 3858",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 483,
+    "name": "Over Rice",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (59)",
+    "phone": "+6221 5140 0486",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 484,
+    "name": "Qbox",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (48)",
+    "phone": "+6221 5797 3031",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 485,
+    "name": "QQ Kopitiam",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (52)",
+    "phone": "+6221 5797 3672",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 486,
+    "name": "Starbucks Coffee",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (09)",
+    "phone": "+6221 5797 3565",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 487,
+    "name": "The Coffee Bean",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G (25)",
+    "phone": "+6221 5797 3655",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 488,
+    "name": "Kopi Luwak",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (09)",
+    "phone": "+6221 5797 3079",
+    "mall_id": 4,
+    "floor": "LG"
+  },
+  {
+    "id": 489,
+    "name": "Hard Rock Café",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G (05)",
+    "phone": "+6221 5797 3055",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 490,
+    "name": "Wendy's",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (32)",
+    "phone": "+6221 515 1222",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 491,
+    "name": "Urban Kitchen",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (02, 03, 06)",
+    "phone": "+6221 5797 3160",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 492,
+    "name": "Rice Bowl",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (01)",
+    "phone": "+6221 5797 3268",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 493,
+    "name": "Crystal Jade Teochew ",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (02)",
+    "phone": "+6221 5140 0437",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 494,
+    "name": "Go! Curry",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (01)",
+    "phone": "+6221 5140 2750",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 495,
+    "name": "Riung Sunda",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (55)",
+    "phone": "+6221 5797 3369",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 496,
+    "name": "Seruput",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (56)",
+    "phone": "+6221 5797 3219",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 497,
+    "name": "Sop Buntut Bogor Café",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (57)",
+    "phone": "+6221 5797 3238",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 498,
+    "name": "Thai Alley",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (49)",
+    "phone": "+6221 5797 3600",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 499,
+    "name": "Capocaccia",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G (51B)",
+    "phone": "+6221 5797 3658",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 500,
+    "name": "Fish & Co.",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (49, 51)",
+    "phone": "+6221 5797 3162",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 501,
+    "name": "Lucaffe",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "1st (45-46)",
+    "phone": "+6221 5797 3136",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 502,
+    "name": "Opera Blanc",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G (05D)",
+    "phone": "+6221 5797 3815",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 503,
+    "name": "Pancious",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (39)",
+    "phone": "+6221 5797 3360",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 504,
+    "name": "Poblano",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (60)",
+    "phone": "+6221 5797 3199",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 505,
+    "name": "Segafredo",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "1st (18)",
+    "phone": "+6221 5797 3498",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 506,
+    "name": "Sopra",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "1st (22, 23, 25)",
+    "phone": "+6221 5140 0557",
+    "mall_id": 4,
+    "floor": "1"
+  },
+  {
+    "id": 507,
+    "name": "Takigawa",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (45, 46)",
+    "phone": "+6221 5797 3056",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 508,
+    "name": "IWS Café & Noodle",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (53)",
+    "phone": "+6221 5797 3270",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 509,
+    "name": "Pho 24",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (24)",
+    "phone": "+6221 5140 0531",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 510,
+    "name": "Baskin Robbins",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "B1 (19)",
+    "phone": "+6221 5140 2506",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 511,
+    "name": "Beard Papa's",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (23A)",
+    "phone": "+6221 5140 2738",
+    "mall_id": 4,
+    "floor": "LG"
+  },
+  {
+    "id": 512,
+    "name": "Coco Bubble Tea",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (58A)",
+    "phone": "+6221 5797 3585",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 513,
+    "name": "Coffee Club",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "3rd (17)",
+    "phone": "+6221 5140 0490",
+    "mall_id": 4,
+    "floor": "3"
+  },
+  {
+    "id": 514,
+    "name": "Come & Buy",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (15A)",
+    "phone": "+6221 5140 0587",
+    "mall_id": 4,
+    "floor": "LG"
+  },
+  {
+    "id": 515,
+    "name": "Crystal Jade My Bread",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (10)",
+    "phone": "+6221 5140 0432",
+    "mall_id": 4,
+    "floor": "LG"
+  },
+  {
+    "id": 516,
+    "name": "Haagen-Dazs",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (72)",
+    "phone": "+6221 5140 0519",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 517,
+    "name": "House Of Buns",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (15)",
+    "phone": "+6221 5140 0611",
+    "mall_id": 4,
+    "floor": "LG"
+  },
+  {
+    "id": 518,
+    "name": "Huize Van Welly",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G (20)",
+    "phone": "+6221 5797 3645",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 519,
+    "name": "Liberica",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "4th (40-41)",
+    "phone": "+6221 5797 3375",
+    "mall_id": 4,
+    "floor": "4"
+  },
+  {
+    "id": 520,
+    "name": "Snack Zone",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (22)",
+    "phone": "+6221 5797 3121",
+    "mall_id": 4,
+    "floor": "LG"
+  },
+  {
+    "id": 521,
+    "name": "Sour Sally",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (11, 11A)",
+    "phone": "+6221 5797 3857",
+    "mall_id": 4,
+    "floor": "LG"
+  },
+  {
+    "id": 522,
+    "name": "Vinoteca",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "5th (10)",
+    "phone": "+6221 5140 0609",
+    "mall_id": 4,
+    "floor": "5"
+  },
+  {
+    "id": 523,
+    "name": "Ya Kun Kaya Toast",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (21)",
+    "phone": "+6221 5140 2565",
+    "mall_id": 4,
+    "floor": "LG"
+  },
+  {
+    "id": 524,
+    "name": "Yogen Fruz & Crepes",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "LG (08)",
+    "phone": "+6221 5797 3074",
+    "mall_id": 4,
+    "floor": "LG"
+  },
+  {
+    "id": 525,
+    "name": "Potato Head",
+    "category": "Food & Beverage",
+    "category_id": 5,
+    "unit": "G (48, 51A)",
+    "phone": "+6221 5797 3322",
+    "mall_id": 4,
+    "floor": "GF"
+  },
+  {
+    "id": 526,
+    "name": "Stop N Go",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "B1 (36)",
+    "phone": "+6221 5797 3116",
+    "mall_id": 4,
+    "floor": "B1"
+  },
+  {
+    "id": 527,
+    "name": "Dua Sisi Money Changer",
+    "category": "Offices & Services",
+    "category_id": 1,
+    "unit": "LG (12)",
+    "phone": "+6221 5797 3825",
+    "mall_id": 4,
+    "floor": "LG"
+  }
+]

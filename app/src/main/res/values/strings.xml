@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JKT Malls</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+
+    <!-- drawer menu -->
+    <string name="drawer_malls">Malls List</string>
+    <string name="drawer_shops">Find Shops</string>
+
+    <!-- Asset data -->
+    <string name="categories_asset">data/categories.json</string>
+    <string name="malls_asset">data/malls.json</string>
+    <string name="tenants_asset">data/tenants.json</string>
+    <string name="tenants_asset_2">data/tenants_2.json</string>
+    <string name="tenants_asset_3">data/tenants_3.json</string>
+    <string name="tenants_asset_4">data/tenants_4.json</string>
+    <string name="tenants_asset_5">data/tenants_5.json</string>
+
+    <!-- Static URL -->
+    <string name="google_static_map_url">https://maps.googleapis.com/maps/api/staticmap?</string>
+</resources>

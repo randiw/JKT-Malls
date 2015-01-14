@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:print="http://schemas.android.com/apk/res-auto"
+    style="@style/BaseActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/static_map"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:id="@+id/mall_name"
+                        style="@style/detail_title"
+                        android:textColor="@color/blue_dodger"
+                        android:text="Blok-M Plaza"
+                        android:gravity="center|left" />
+
+                    <TextView
+                        android:id="@+id/area"
+                        style="@style/detail_item"
+                        android:text="South Jakarta" />
+
+                </LinearLayout>
+
+                <com.github.johnkil.print.PrintView
+                    android:id="@+id/navigation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    print:iconColor="@color/blue_dodger"
+                    android:layout_gravity="center_vertical"
+                    print:iconSize="40dp"
+                    print:iconText="@string/ic_material_directions_car"
+                    android:layout_marginRight="5dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_desc_detail"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="@drawable/bg_desc_detail_item"
+                    android:padding="10dp">
+
+                    <com.github.johnkil.print.PrintView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        print:iconColor="@android:color/black"
+                        android:layout_gravity="center_vertical"
+                        print:iconSize="22dp"
+                        print:iconText="@string/ic_material_lock_open"
+                        android:layout_marginRight="5dp" />
+
+                    <TextView
+                        android:id="@+id/operational_hour"
+                        style="@style/detail_item" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="@drawable/bg_desc_detail_item"
+                    android:padding="10dp">
+
+                    <com.github.johnkil.print.PrintView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        print:iconColor="@android:color/black"
+                        android:layout_gravity="top"
+                        print:iconSize="22dp"
+                        print:iconText="@string/ic_material_place"
+                        android:layout_marginRight="5dp" />
+
+                    <TextView
+                        android:id="@+id/address"
+                        style="@style/detail_item" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="10dp">
+
+                    <com.github.johnkil.print.PrintView
+                        android:id="@+id/phone_icon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        print:iconColor="@android:color/black"
+                        android:layout_gravity="center_vertical"
+                        print:iconSize="22dp"
+                        print:iconText="@string/ic_material_call"
+                        android:layout_marginRight="5dp" />
+
+                    <TextView
+                        android:id="@+id/phone"
+                        style="@style/detail_item"
+                        android:text="Phone" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
